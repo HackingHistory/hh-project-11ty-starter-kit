@@ -1,6 +1,10 @@
 ---
 layout: frontpage
+Title: Revolution Through Queer Fashion in Easter Europe
 ---
+
+This site will explore how Eastern European indie fashion designers are generating an internation queer revolution using public forums such as Instagram. I will be primarily be looking at Russian and Ukranian fashion and their impact on sites like instagram, I-D, and Vogue.
+Additionally I would like to create 2-3 pages including traditional academic information/theory, A page which priotizes instagrams, articles, and websites links to different fashion brands. And a comparative page that has a timeline of different Queer Fashion revolutions from the early years of vogue, the queer liberation movement, to contemporary Eastern Europe. 
 
 1. [Clone this repository](https://github.com/HackingHistory/hh-project-11ty-starter-kit)
 to your **personal** account.
