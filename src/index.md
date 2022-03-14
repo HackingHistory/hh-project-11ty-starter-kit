@@ -1,6 +1,9 @@
 ---
 layout: frontpage
+title: My New Website
 ---
+I'll start here by adding some very simple text. 
+
 
 1. [Clone this repository](https://github.com/HackingHistory/hh-project-11ty-starter-kit)
 to your **personal** account.
