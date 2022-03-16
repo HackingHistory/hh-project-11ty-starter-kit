@@ -4,5 +4,5 @@ module.exports = {
   siteDescription:
   "Quickly launch an 11ty-generated static site. Should be simple enough for students to use, but includes a minimal Sass framework, and generated sitemap, RSS feed, and social share preview images.",
   authorName: "Jade Nelson ",
-  twitterUsername: "prevtative_advil", // no `@`
+  instagramUsername: "jb.z.n", // no `@`
 };
