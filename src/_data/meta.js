@@ -1,8 +1,8 @@
 module.exports = {
-  url: process.env.URL || "https://hackinghistory.github.io/hh-project-11ty-starter-kit/",
-  siteName: "Hacking History Starter Kit",
+  url: process.env.URL || "https://github.com/armsafna/hh-project-11ty-starter-kit/",
+  siteName: "Iranian Revolutionary Crowds",
   siteDescription:
-  "Quickly launch an 11ty-generated static site. Should be simple enough for students to use, but includes a minimal Sass framework, and generated sitemap, RSS feed, and social share preview images.",
-  authorName: "Matt Price via @5t3ph",
-  twitterUsername: "mattpriceuoft", // no `@`
+  "Playing around with HTML, CSS, JavaScript and APIs to present images of crowds during the 1979 Iranian Revolution",
+  authorName: "Armin Safavi",
+  //twitterUsername: "mattpriceuoft", // no `@`
 };
