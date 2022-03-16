@@ -4,5 +4,5 @@ module.exports = {
   siteDescription:
   "Playing around with HTML, CSS, JavaScript and APIs to present images of crowds during the 1979 Iranian Revolution",
   authorName: "Armin Safavi",
-  //twitterUsername: "mattpriceuoft", // no `@`
+  twitterUsername: "armsafna",
 };
