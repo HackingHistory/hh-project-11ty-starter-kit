@@ -1,5 +1,5 @@
 ---
-title: "Project Planning"
+title: "Project Proposal"
 description: "An introductory planning document"
 ---
 ## Topic
@@ -8,6 +8,7 @@ The Canadian Curriculum History Project (CCHP) seeks to explore the curriculum h
 The first initiative of the CCHP will be to examine the curriculum history of Indigenous peoples. This will include reviewing, documenting, and categorizing the depictions and representations of Indigenous peoples, cultures, and events in Canadian public school curriculum.
 
 As Canadians begin to address and reconcile the past policies of their governments and institutions, it is critical to understand what role education played in disguising, distorting, omitting, and erasing historical events and patterns, including state and institutional crimes. This project will examine representation through this lense and connect and correlate government policy and programs.
+***
 
 ## Audience and Stakeholders
 
@@ -27,6 +28,7 @@ For this project to be successful, and to improve my chances of a submitting a s
 Once approvals are obtained and project proposel completed, these support members will be approached to solicit their interest and/or support for the project. I will also connect with various history, government and indigenous organizations to build support for this project. 
 
 Reference Letters: Three letters of reference are required for UofT's MA History program and can hopefully be gleaned from the team members above. 
+***
 
 ### Publicity and Awareness 
 As the project takes form, I envions an aggressive publicity component to build support and awareness not only for the project itself but for Digital Humanities. Various websites and publications should be contacted with a releases and a project brief. The project subject matter is timely and newsworthy so with proper planning and support, it should get some traction.
@@ -38,7 +40,7 @@ As the project takes form, I envions an aggressive publicity component to build 
 ### 3. Planning 
 ### 4. Execution
 ### 5. Closing
-
+***
 
 ## Academic Proposal
 ### Rationale
