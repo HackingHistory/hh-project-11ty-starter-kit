@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
-		
-    <lastmod>2022-03-09T19:18:07Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/</loc>
 		
-    <lastmod>2022-03-09T19:18:07Z</lastmod>
+    <lastmod>2022-03-19T03:43:00Z</lastmod>
 		
   </url>
   
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</loc>
 		
-    <lastmod>2022-03-09T19:18:07Z</lastmod>
+    <lastmod>2022-03-19T03:43:00Z</lastmod>
 		
   </url>
   
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/staging/two-column/</loc>
 		
-    <lastmod>2022-03-09T19:18:07Z</lastmod>
+    <lastmod>2022-03-19T03:43:00Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
+		
+    <lastmod>2022-03-20T01:16:03Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/</loc>
+		
+    <lastmod>2022-03-20T01:16:03Z</lastmod>
 		
   </url>
 </urlset>

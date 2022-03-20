@@ -47,4 +47,38 @@ As the project takes form, I envions an aggressive publicity component to build 
 ### Review
 ### Outline
 
-## Personal Statement 
+## Personal Statement (Rough draft)
+
+As my mother and I began the painful process of sorting through my recently-deceased grandmother’s things, among the many silk scarves, countless photographs, and I came across an photo album of 
+
+As Canada now joins the exclusive club of counties who have committed genocide I wondered what is my responsibility as an the ancestor or settlers, pioneers.
+
+As I think of my grandparents and others, who didn’t know or didn’t ask or didn’t care to know, I think the greatest crime I can commit not following them by not asking or doing. 
+
+I then began to think about how I came to learn about First Nations. I had tacky trinkets and toys like headdresses, tomahawks, model teepees and birchbark canoes. I vaguely remember OKa ( I was thirteen). 
+
+For most of my life I have lived no more than 50 kilometres away from a reservation, but would mean not much more than a quick joke about cheap smokes or cheap gas. 
+
+It was not until my first year in university, when reading a peer-reviewed journal did I learn from an international observer that there west problems at home. 
+
+Of course I had read some Chomsky in grade 11 media studies (and continue to read him) talking about the American institution, but didn’t turn that critical gaze towards Canada. 
+
+These experiences led me to the idea of studying what we learned in school and how that may operate to indoctrinate citizens. 
+
+
+I have always believed that every Canadian, whether the families of pioneers or new Canadians to at least ask what responsibility do we have. 
+
+Sure, we can leave institutional measures to the government, but what about at a human level, a community level. What can Canadians do to foster closer more integrated relations with our indigenous peoples?
+
+Mighty glitchy, BeChcombers, mythologies in cub scouts 
+
+I recently learned of the silver cup of peace and Covenant. Is this something we can look to as those willing to listen and participate in creating a Canada that is aware and accepting of past and looking forward to a future. 
+
+As we move from awareness and acceptance, what might action look like? Can we leave to givenntbt 
+
+We can leave reconciling to government and politicians or we can create opportunities to make connections with other communities, learn from our history, create a more just future. 
+
+About taking responsibility. We are citizens in a democratic society and ultimately have responsibility for actions of government.  So 
+
+C
+As we almost weekly read about the discovery of new graves holding the remains of indigenous children, and as we, as a society begin to reconcile our colonial past, account for MMWIG, and watch as our governments and communities address the reconciliation process. 
