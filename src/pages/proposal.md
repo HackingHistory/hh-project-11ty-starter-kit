@@ -51,7 +51,7 @@ For this project to be successful, and to improve my chances of a submitting a s
 * Canadian policy/legislative historian
 * Technology advisor
 
-##### Other Stakeholders and Interested Parties
+#### Other Stakeholders and Interested Parties
 
 1. **Media:** As the project takes form, I envions an aggressive publicity component to build support and awareness not only for the project itself but for Digital Humanities. Various websites and publications should be contacted with a releases and a project brief. The project subject matter is timely and newsworthy so with proper planning and support, it should get some traction.
 
