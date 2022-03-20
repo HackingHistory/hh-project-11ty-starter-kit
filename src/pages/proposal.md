@@ -71,7 +71,7 @@ For this project to be successful, and to improve my chances of a submitting a s
 
 As my mother and I began the painful process of sorting through my recently-deceased grandmother’s things, among the many silk scarves, countless photographs, and I came across an photo album of 
 
-As Canada now joins the exclusive club of counties who have committed genocide I wondered what is my responsibility as an the ancestor or settlers, pioneers.
+As Canada now joins the exclusive club of counties who have committed genocide I wondered what is my responsibility as an the ancestor of settlers and pioneers.
 
 As I think of my grandparents and others, who didn’t know or didn’t ask or didn’t care to know, I think the greatest crime I can commit not following them by not asking or doing. 
 
