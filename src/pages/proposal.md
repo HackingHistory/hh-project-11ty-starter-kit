@@ -10,9 +10,35 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 As Canadians begin to address and reconcile the past policies of their governments and institutions, it is critical to understand what role education played in disguising, distorting, omitting, and erasing historical events and patterns, including state and institutional crimes. This project will examine representation through this lense and connect and correlate government policy and programs.
 ***
 
-## Audience and Stakeholders
+## Audience
+
+* Canadian public
+
+* Educators
+
+* Historians
+
+* Other scholars
+
+* Policy makers
+
+* Media
+
+* Graduate school application panel 
 
 At this time I do not have the requirements to submit a successful Master's application, but I would like to begin work on this project through a Senior Thesis or Independant Study. This, of course, will require the sponsorship and support of a faculty member. I would like to work with Matt Price, my instructor for Hacking History (HIS496H1).
+
+Once approvals are obtained and project proposel completed, these support members will be approached to solicit their interest and/or support for the project. I will also connect with various history, government and indigenous organizations to build support for this project. 
+
+Reference Letters: Three letters of reference are required for UofT's MA History program and can hopefully be gleaned from the team members above. 
+***
+
+## Outline
+
+### 1. Proposal
+### 2. Initiation
+
+#### Building a Project Team
 
 For this project to be successful, and to improve my chances of a submitting a successful MA application, I will need to build a team of support including advisors and Subject Matter Experts. I envision needing the following people: 
 
@@ -25,18 +51,11 @@ For this project to be successful, and to improve my chances of a submitting a s
 * Canadian policy/legislative historian
 * Technology advisor
 
-Once approvals are obtained and project proposel completed, these support members will be approached to solicit their interest and/or support for the project. I will also connect with various history, government and indigenous organizations to build support for this project. 
+##### Other Stakeholders and Interested Parties
 
-Reference Letters: Three letters of reference are required for UofT's MA History program and can hopefully be gleaned from the team members above. 
-***
+1. **Media:** As the project takes form, I envions an aggressive publicity component to build support and awareness not only for the project itself but for Digital Humanities. Various websites and publications should be contacted with a releases and a project brief. The project subject matter is timely and newsworthy so with proper planning and support, it should get some traction.
 
-### Publicity and Awareness 
-As the project takes form, I envions an aggressive publicity component to build support and awareness not only for the project itself but for Digital Humanities. Various websites and publications should be contacted with a releases and a project brief. The project subject matter is timely and newsworthy so with proper planning and support, it should get some traction.
 
-## Outline
-
-### 1. Proposal
-### 2. Initiation
 ### 3. Planning 
 ### 4. Execution
 ### 5. Closing
