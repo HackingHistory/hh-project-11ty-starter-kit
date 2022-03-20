@@ -188,7 +188,7 @@ body.front-page .logo {
   width: 12vmax;
   height: 12vmax;
   margin: 0 auto 2rem;
-  background-color: green;
+  background-color: #49169d;
   border-radius: 10px;
   border: black 2px solid;
 }
@@ -211,7 +211,7 @@ body.front-page #quickstart + ol li:first-child p {
 }
 
 .tdbc-sitenav {
-  background-color: #215423;
+  background-color: #0F52BA;
 }
 .tdbc-sitenav__container, .tdbc-sitenav__navlist {
   display: flex;
