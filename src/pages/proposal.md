@@ -25,6 +25,7 @@ As Canadians begin to address and reconcile the past policies of their governmen
 * Media
 
 * Graduate school application panel 
+* Grants, scholarships, other financial supporters
 
 At this time I do not have the requirements to submit a successful Master's application, but I would like to begin work on this project through a Senior Thesis or Independant Study. This, of course, will require the sponsorship and support of a faculty member. I would like to work with Matt Price, my instructor for Hacking History (HIS496H1).
 
