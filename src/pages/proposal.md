@@ -76,7 +76,7 @@ I recently learned of the silver cup of peace and Covenant. Is this something we
 
 As we move from awareness and acceptance, what might action look like? Can we leave to givenntbt 
 
-We can leave reconciling to government and politicians or we can create opportunities to make connections with other communities, learn from our history, create a more just future. 
+> We can leave reconciling to government and politicians or we can create opportunities to make connections with other communities, learn from our history, create a more just future. 
 
 About taking responsibility. We are citizens in a democratic society and ultimately have responsibility for actions of government.  So 
 
