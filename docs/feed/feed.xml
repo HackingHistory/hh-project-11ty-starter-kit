@@ -167,92 +167,11 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 	</entry>
 	
 	<entry>
-		<title>Style Demo</title>
+		<title>Contribute</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/"/>
 		<updated>2022-03-19T03:43:00Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</id>
-		<content type="html">&lt;blockquote&gt;
-&lt;p&gt;Credit for the kitchen sink elements to the &lt;a href=&quot;https://github.com/pmarsceill/just-the-docs&quot;&gt;&amp;quot;Just the Docs&amp;quot;&lt;/a&gt; project by &lt;a href=&quot;https://github.com/pmarsceill&quot;&gt;pmarsceill&lt;/a&gt;, and to the original author of the starterkit.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&quot;introduction&quot; tabindex=&quot;-1&quot;&gt;Introduction&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#introduction&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Most of your time on this project will be spent writing in markdown. This page lives here as a reminder of how to write in markdown. Please note that I&#39;ve appended a brief discussion of how to use footnotes here.&lt;/p&gt;
-&lt;h1 id=&quot;header-1&quot; tabindex=&quot;-1&quot;&gt;Header 1&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-1&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.&lt;/p&gt;
-&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;s&gt;strikethrough&lt;/s&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://hackinghistory.github.io/about&quot;&gt;Link to another page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;header-2&quot; tabindex=&quot;-1&quot;&gt;Header 2&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-2&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is a blockquote following a header.&lt;/p&gt;
-&lt;p&gt;When something is important enough, you do it even if the odds are not in your favor.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;header-3&quot; tabindex=&quot;-1&quot;&gt;Header 3&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-3&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Javascript code with syntax highlighting.&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;  dateformat&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;i18n &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;./lang/&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; l&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Ruby code with syntax highlighting&lt;/span&gt;&lt;br /&gt;GitHubPages&lt;span class=&quot;token double-colon punctuation&quot;&gt;::&lt;/span&gt;Dependencies&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;gems&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;gem&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; version&lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;&lt;br /&gt;  s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;add_dependency&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;gem&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string-literal&quot;&gt;&lt;span class=&quot;token string&quot;&gt;&quot;= &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token delimiter punctuation&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;token delimiter punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
-&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
-&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5&gt;Header 5&lt;/h5&gt;
-&lt;ol&gt;
-&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
-&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
-&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;theres-a-horizontal-rule-below-this&quot; tabindex=&quot;-1&quot;&gt;There&#39;s a horizontal rule below this.&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#theres-a-horizontal-rule-below-this&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;h3 id=&quot;here-is-an-unordered-list&quot; tabindex=&quot;-1&quot;&gt;Here is an unordered list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#here-is-an-unordered-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Item foo&lt;/li&gt;
-&lt;li&gt;Item bar&lt;/li&gt;
-&lt;li&gt;Item baz&lt;/li&gt;
-&lt;li&gt;Item zip&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;and-an-ordered-list&quot; tabindex=&quot;-1&quot;&gt;And an ordered list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#and-an-ordered-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Item one&lt;/li&gt;
-&lt;li&gt;Item two&lt;/li&gt;
-&lt;li&gt;Item three&lt;/li&gt;
-&lt;li&gt;Item four&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;and-a-nested-list&quot; tabindex=&quot;-1&quot;&gt;And a nested list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#and-a-nested-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;level 1 item
-&lt;ul&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;li&gt;level 2 item
-&lt;ul&gt;
-&lt;li&gt;level 3 item&lt;/li&gt;
-&lt;li&gt;level 3 item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;level 1 item
-&lt;ul&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;level 1 item
-&lt;ul&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;level 1 item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;small-image&quot; tabindex=&quot;-1&quot;&gt;Small Image&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#small-image&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://picsum.photos/200&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;large-image&quot; tabindex=&quot;-1&quot;&gt;Large image&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#large-image&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://picsum.photos/800/300&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;footnotes&quot; tabindex=&quot;-1&quot;&gt;Footnotes&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#footnotes&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;We use a &lt;a href=&quot;https://github.com/markdown-it/markdown-it-footnote&quot;&gt;plugin&lt;/a&gt; for rendering simple footnotes. It&#39;s not ideal but at lest youu can insert references here, which I find somewhat straightforward to do &lt;a href=&quot;https://forums.zotero.org/discussion/93521/available-for-beta-testing-markdown-export-of-notes&quot;&gt;using the technique described here&lt;/a&gt;. Howver, it could be painful or at least awkward if you&#39;re using html format instead.&lt;/p&gt;
-</content>
+		<content type="html"></content>
 	</entry>
 	
 	<entry>
@@ -265,8 +184,41 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 The first initiative of the CCHP will be to examine the curriculum history of Indigenous peoples. This will include reviewing, documenting, and categorizing the depictions and representations of Indigenous peoples, cultures, and events in Canadian public school curriculum.&lt;/p&gt;
 &lt;p&gt;As Canadians begin to address and reconcile the past policies of their governments and institutions, it is critical to understand what role education played in disguising, distorting, omitting, and erasing historical events and patterns, including state and institutional crimes. This project will examine representation through this lense and connect and correlate government policy and programs.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2 id=&quot;audience-and-stakeholders&quot; tabindex=&quot;-1&quot;&gt;Audience and Stakeholders&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#audience-and-stakeholders&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;audience&quot; tabindex=&quot;-1&quot;&gt;Audience&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#audience&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Canadian public&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Educators&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Historians&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other scholars&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Policy makers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Media&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Graduate school application panel&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grants, scholarships, other financial supporters&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;At this time I do not have the requirements to submit a successful Master&#39;s application, but I would like to begin work on this project through a Senior Thesis or Independant Study. This, of course, will require the sponsorship and support of a faculty member. I would like to work with Matt Price, my instructor for Hacking History (HIS496H1).&lt;/p&gt;
+&lt;p&gt;Once approvals are obtained and project proposel completed, these support members will be approached to solicit their interest and/or support for the project. I will also connect with various history, government and indigenous organizations to build support for this project.&lt;/p&gt;
+&lt;p&gt;Reference Letters: Three letters of reference are required for UofT&#39;s MA History program and can hopefully be gleaned from the team members above.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;outline&quot; tabindex=&quot;-1&quot;&gt;Outline&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#outline&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;1-proposal&quot; tabindex=&quot;-1&quot;&gt;1. Proposal&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#1-proposal&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;2-initiation&quot; tabindex=&quot;-1&quot;&gt;2. Initiation&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#2-initiation&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;h4&gt;Building a Project Team&lt;/h4&gt;
 &lt;p&gt;For this project to be successful, and to improve my chances of a submitting a successful MA application, I will need to build a team of support including advisors and Subject Matter Experts. I envision needing the following people:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Project sponsor and advisor (Matt Price?)&lt;/li&gt;
@@ -278,14 +230,10 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 &lt;li&gt;Canadian policy/legislative historian&lt;/li&gt;
 &lt;li&gt;Technology advisor&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Once approvals are obtained and project proposel completed, these support members will be approached to solicit their interest and/or support for the project. I will also connect with various history, government and indigenous organizations to build support for this project.&lt;/p&gt;
-&lt;p&gt;Reference Letters: Three letters of reference are required for UofT&#39;s MA History program and can hopefully be gleaned from the team members above.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&quot;publicity-and-awareness&quot; tabindex=&quot;-1&quot;&gt;Publicity and Awareness&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#publicity-and-awareness&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As the project takes form, I envions an aggressive publicity component to build support and awareness not only for the project itself but for Digital Humanities. Various websites and publications should be contacted with a releases and a project brief. The project subject matter is timely and newsworthy so with proper planning and support, it should get some traction.&lt;/p&gt;
-&lt;h2 id=&quot;outline&quot; tabindex=&quot;-1&quot;&gt;Outline&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#outline&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;1-proposal&quot; tabindex=&quot;-1&quot;&gt;1. Proposal&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#1-proposal&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;h3 id=&quot;2-initiation&quot; tabindex=&quot;-1&quot;&gt;2. Initiation&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#2-initiation&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;h4&gt;Other Stakeholders and Interested Parties&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Media:&lt;/strong&gt; As the project takes form, I envion an aggressive publicity component to build support and awareness not only for the project itself but for Digital Humanities. Various websites and publications should be contacted with a releases and a project brief. The project subject matter is timely and newsworthy so with proper planning and support, it should get some traction.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3 id=&quot;3-planning&quot; tabindex=&quot;-1&quot;&gt;3. Planning&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#3-planning&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&quot;4-execution&quot; tabindex=&quot;-1&quot;&gt;4. Execution&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#4-execution&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&quot;5-closing&quot; tabindex=&quot;-1&quot;&gt;5. Closing&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#5-closing&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
@@ -296,7 +244,7 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 &lt;h3 id=&quot;outline-1&quot; tabindex=&quot;-1&quot;&gt;Outline&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#outline-1&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;personal-statement-rough-draft&quot; tabindex=&quot;-1&quot;&gt;Personal Statement (Rough draft)&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#personal-statement-rough-draft&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;As my mother and I began the painful process of sorting through my recently-deceased grandmother’s things, among the many silk scarves, countless photographs, and I came across an photo album of&lt;/p&gt;
-&lt;p&gt;As Canada now joins the exclusive club of counties who have committed genocide I wondered what is my responsibility as an the ancestor or settlers, pioneers.&lt;/p&gt;
+&lt;p&gt;As Canada now joins the exclusive club of counties who have committed genocide I wondered what is my responsibility as an the ancestor of settlers and pioneers.&lt;/p&gt;
 &lt;p&gt;As I think of my grandparents and others, who didn’t know or didn’t ask or didn’t care to know, I think the greatest crime I can commit not following them by not asking or doing.&lt;/p&gt;
 &lt;p&gt;I then began to think about how I came to learn about First Nations. I had tacky trinkets and toys like headdresses, tomahawks, model teepees and birchbark canoes. I vaguely remember OKa ( I was thirteen).&lt;/p&gt;
 &lt;p&gt;For most of my life I have lived no more than 50 kilometres away from a reservation, but would mean not much more than a quick joke about cheap smokes or cheap gas.&lt;/p&gt;
@@ -308,7 +256,9 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 &lt;p&gt;Mighty glitchy, BeChcombers, mythologies in cub scouts&lt;/p&gt;
 &lt;p&gt;I recently learned of the silver cup of peace and Covenant. Is this something we can look to as those willing to listen and participate in creating a Canada that is aware and accepting of past and looking forward to a future.&lt;/p&gt;
 &lt;p&gt;As we move from awareness and acceptance, what might action look like? Can we leave to givenntbt&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;We can leave reconciling to government and politicians or we can create opportunities to make connections with other communities, learn from our history, create a more just future.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;About taking responsibility. We are citizens in a democratic society and ultimately have responsibility for actions of government.  So&lt;/p&gt;
 &lt;p&gt;C
 As we almost weekly read about the discovery of new graves holding the remains of indigenous children, and as we, as a society begin to reconcile our colonial past, account for MMWIG, and watch as our governments and communities address the reconciliation process.&lt;/p&gt;

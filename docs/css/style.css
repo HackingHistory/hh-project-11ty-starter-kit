@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter, sans-serif";
   font-style: normal;
   font-weight: normal;
   src: local("Inter Regular"), local("Inter-Regular"), url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap") format("woff2");
   font-display: swap;
 }
 @font-face {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter, sans-serif";
   font-style: normal;
   font-weight: 500;
   src: local("Inter Medium"), local("Inter-Medium"), url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap") format("woff2");
@@ -55,7 +55,7 @@ html {
 /* Set core body defaults */
 body {
   min-height: 100vh;
-  font-family: 'Inter', sans-serif;
+  font-family: sans-serif;
   font-size: 100%;
   line-height: 1.5;
   text-rendering: optimizeSpeed;
@@ -96,7 +96,7 @@ body {
   min-height: 100vh;
   background-color: #f9f9f9;
   color: #203221;
-  font-family: "Inter", sans-serif;
+  font-family: "Baloo 2", sans-serif;
 }
 
 main,
@@ -188,7 +188,7 @@ body.front-page .logo {
   width: 12vmax;
   height: 12vmax;
   margin: 0 auto 2rem;
-  background-color: #49169d;
+  background-color: green;
   border-radius: 10px;
   border: black 2px solid;
 }
@@ -211,7 +211,7 @@ body.front-page #quickstart + ol li:first-child p {
 }
 
 .tdbc-sitenav {
-  background-color: #0F52BA;
+  background-color: #215423;
 }
 .tdbc-sitenav__container, .tdbc-sitenav__navlist {
   display: flex;
@@ -782,7 +782,7 @@ pre[class*=language-] {
 }
 
 .tdbc-background--secondary {
-  background-color: #1C2430;
+  background-color: #b9f1ec;
 }
 
 .tdbc-background--background {
@@ -808,7 +808,7 @@ a.tdbc-ink--primary {
 
 .tdbc-ink--secondary,
 a.tdbc-ink--secondary {
-  color: #1C2430;
+  color: #b9f1ec;
 }
 
 .tdbc-ink--secondary > a:not(.tdbc-button) {
