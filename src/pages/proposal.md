@@ -96,9 +96,25 @@ I recently learned of the silver cup of peace and Covenant. Is this something we
 
 As we move from awareness and acceptance, what might action look like? Can we leave to givenntbt 
 
-> We can leave reconciling to government and politicians or we can create opportunities to make connections with other communities, learn from our history, create a more just future. 
+> We can leave reconciling to governments and politicians or we can create opportunities to make connections with other communities, learn from our history, work towards a more just future. 
 
 About taking responsibility. We are citizens in a democratic society and ultimately have responsibility for actions of government.  So 
 
-C
 As we almost weekly read about the discovery of new graves holding the remains of indigenous children, and as we, as a society begin to reconcile our colonial past, account for MMWIG, and watch as our governments and communities address the reconciliation process. 
+
+- To read:
+* How education works 
+* How curriculum works
+* Propaganda, indoctrination, socialization, etc. 
+* What is the function/role of the nation-state?
+
+
+## Research Process
+
+1. Research Area
+2. Formulating research aim, objectives and research questions
+3. Conducting the literature review 
+4. Selecting data collection methods
+5. Data analysis
+6. Reaching conclusions
+8. Completing the research
