@@ -26,7 +26,7 @@ to quickly customize the starter.
 
 1. Review the [11ty documentation](https://11ty.dev) to more deeply apply customizations, including adding custom data sources and reviewing what template languages are available.
 
-<!-- <h3 class="tdbc-h4">Is Netlify hosting required?</h3>
+<!-- <h3 class=" -h4">Is Netlify hosting required?</h3>
 
 It's not required, but highly recommended, and is also how the build process is setup to run
 against. -->
