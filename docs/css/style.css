@@ -739,7 +739,6 @@ pre[class*=language-] {
   transition: 180ms opacity ease-in-out;
   opacity: 0.3;
   font-size: 0.6em;
-  float: left;
   margin-left: -2rem;
   vertical-align: bottom;
   text-decoration: none;
