@@ -76,11 +76,30 @@
   </div>
 </header>
 <main class="tdbc-container">
+<!-- 1 -->
+<link title="timeline-styles" rel="stylesheet" 
+      href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+<!-- 2 -->
+<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+<p>timeline right below here hopefully</p>
+<div id='timeline-embed' style="width: 100%; height: 600px"></div>
+<!-- 3 -->
+<script type="text/javascript">
+    // The TL.Timeline constructor takes at least two arguments:
+    // the id of the Timeline container (no '#'), and
+    // the URL to your JSON data file or Google spreadsheet.
+    // the id must refer to an element "above" this code,
+    // and the element must have CSS styling to give it width and height
+    // optionally, a third argument with configuration options can be passed.
+    // See below for more about options.
+    timeline = new TL.Timeline('timeline-embed',
+    '/hh-project-11ty-starter-kit/timeline-data.json');
+</script>
   <div class="tdbc-section">
     <ul class="tdbc-column-container"><li class="tdbc-card">
         <div class="tdbc-card__content">
-          <a href="/hh-project-11ty-starter-kit/about/" class="tdbc-card__title">About</a>
-          <p>A brief introduction to this starter kit.</p>
+          <a href="/hh-project-11ty-starter-kit/proposal/" class="tdbc-card__title">Project Proposal</a>
+          <p>An introductory planning document</p>
         </div>
       </li><li class="tdbc-card">
         <div class="tdbc-card__content">
@@ -89,8 +108,8 @@
         </div>
       </li><li class="tdbc-card">
         <div class="tdbc-card__content">
-          <a href="/hh-project-11ty-starter-kit/proposal/" class="tdbc-card__title">Project Proposal</a>
-          <p>An introductory planning document</p>
+          <a href="/hh-project-11ty-starter-kit/about/" class="tdbc-card__title">About</a>
+          <p>A brief introduction to this starter kit.</p>
         </div>
       </li></ul>
   </div>
