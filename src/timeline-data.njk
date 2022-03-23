@@ -1,0 +1,25 @@
+---
+permalink: '/timeline-data.json'
+---
+{
+  "posts": [
+    {% for item in collections.posts %}
+      {
+        "title": "{{ item.data.title }}",
+        "url": "{{ item.url }}"
+      }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ],
+  "events": [
+    {% for item in collections.pages %}
+    {% if item.data.year %}
+      {
+        "title": "{{ item.data.title }}",
+        "url": "{{ item.url }}",
+      "start_date": {"year": {{item.data.year}}},
+        "text": {"headline": "{{ item.data.title }}", "text": "text"}
+    }{% if not loop.last %},{% endif %}
+    {% endif %}
+    {% endfor %}
+  ]
+}

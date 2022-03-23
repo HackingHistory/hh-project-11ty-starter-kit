@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "A brief introduction to this starter kit."
+year: 2022
 ---
 ## Intro to Jumpstart
 

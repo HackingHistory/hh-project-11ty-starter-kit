@@ -38,6 +38,7 @@ bodyClass: front-page
   </div>
 </header>
 <main class="tdbc-container">
+{% include 'timeline.njk' %}
   <div class="tdbc-section">
     <ul class="tdbc-column-container">
       {%- for page in collections.pages -%}
