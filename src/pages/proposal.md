@@ -37,6 +37,10 @@ Reference Letters: Three letters of reference are required for UofT's MA History
 ## Outline
 
 ### 1. Proposal
+
+#### Project Design
+
+*Description and Justification*
 ### 2. Initiation
 
 #### Building a Project Team
