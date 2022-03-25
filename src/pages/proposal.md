@@ -120,6 +120,8 @@ About taking responsibility. We are citizens in a democratic society and ultimat
 
 As we almost weekly read about the discovery of new graves holding the remains of indigenous children, and as we, as a society begin to reconcile our colonial past, account for MMWIG, and watch as our governments and communities address the reconciliation process. 
 
+As I began to reflect on news and findings, I wondered what the responsability of citizens, of Canadian people, do we have. My thoughts turned to the idea of responsability as a vital component. But how do we think about ressponability. How do we envision responsability through the education system when information, narratives, histories, are denied to us. This is how I arrived at the idea for this project. 
+
 ### To read:
 * How education works 
 * How curriculum works
