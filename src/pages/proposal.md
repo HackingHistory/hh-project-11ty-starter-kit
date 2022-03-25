@@ -34,11 +34,27 @@ Once approvals are obtained and project proposel completed, these support member
 Reference Letters: Three letters of reference are required for UofT's MA History program and can hopefully be gleaned from the team members above. 
 ***
 
-## Outline
+## 1. Proposal
 
-### 1. Proposal
+## Project Design
 
-#### Project Design
+### Description and Design
+
+####
+
+#### Tools and Methods
+
+#### Deliverables
+
+#### Performance Measures
+
+#### Audience and Stakeholders
+
+#### Resources and Funding 
+
+#### Timeline
+
+
 
 *Description and Justification*
 ### 2. Initiation
