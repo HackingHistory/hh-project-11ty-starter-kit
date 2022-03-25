@@ -8,9 +8,29 @@ The Canadian Curriculum History Project (CCHP) seeks to explore the curriculum h
 The first initiative of the CCHP will be to examine the curriculum history of Indigenous peoples. This will include reviewing, documenting, and categorizing the depictions and representations of Indigenous peoples, cultures, and events in Canadian public school curriculum.
 
 As Canadians begin to address and reconcile the past policies of their governments and institutions, it is critical to understand what role education played in disguising, distorting, omitting, and erasing historical events and patterns, including state and institutional crimes. This project will examine representation through this lense and connect and correlate government policy and programs.
+
 ***
 
-## Audience
+## Project Design
+
+### Description and Design
+
+####
+
+#### Tools and Methods
+
+#### Deliverables
+
+#### Performance Measures
+
+#### Audience and Stakeholders
+
+**Primary**
+
+**Secondary** 
+
+**Tertiary**
+
 
 * Canadian public
 
@@ -27,26 +47,13 @@ As Canadians begin to address and reconcile the past policies of their governmen
 * Graduate school application panel 
 * Grants, scholarships, other financial supporters
 
+* Publications: Peer-reviewed journals, popular media, DH publications and outlets, etc. 
+
 At this time I do not have the requirements to submit a successful Master's application, but I would like to begin work on this project through a Senior Thesis or Independant Study. This, of course, will require the sponsorship and support of a faculty member. I would like to work with Matt Price, my instructor for Hacking History (HIS496H1).
 
 Once approvals are obtained and project proposel completed, these support members will be approached to solicit their interest and/or support for the project. I will also connect with various history, government and indigenous organizations to build support for this project. 
 
 Reference Letters: Three letters of reference are required for UofT's MA History program and can hopefully be gleaned from the team members above. 
-***
-
-## Project Design
-
-### Description and Design
-
-####
-
-#### Tools and Methods
-
-#### Deliverables
-
-#### Performance Measures
-
-#### Audience and Stakeholders
 
 #### Resources and Funding 
 
