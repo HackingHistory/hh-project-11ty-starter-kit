@@ -11,9 +11,11 @@ const markdownItFootnote = require("markdown-it-footnote")
 // Local utilities/data
 const packageVersion = require("./package.json").version;
 const pluginTOC = require('eleventy-plugin-toc');
+const embeds = require("eleventy-plugin-embed-everything");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(socialImages);
+  eleventyConvig.addPlugin(embeds);
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC, {
