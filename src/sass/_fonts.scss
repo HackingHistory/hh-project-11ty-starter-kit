@@ -1,1 +1,18 @@
 
+matt  14:50
+@font-face {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  src: local("Inter Regular"), local("Inter-Regular"),
+    url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  src: local("Inter Medium"), local("Inter-Medium"),
+    url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap") format("woff2");
+  font-display: swap;
+}
