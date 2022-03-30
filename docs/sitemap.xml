@@ -9,23 +9,72 @@
   </url>
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</loc>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
 		
-    <lastmod>2022-03-09T01:50:06Z</lastmod>
-		
+    <lastmod>2022-03-30T10:47:21Z</lastmod>
+    
   </url>
   
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/</loc>
 		
-    <lastmod>2022-03-09T03:21:07Z</lastmod>
+    <lastmod>2022-03-29T13:14:50Z</lastmod>
 		
   </url>
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</loc>
 		
-    <lastmod>2022-03-09T04:12:31Z</lastmod>
-    
+    <lastmod>2022-03-29T13:14:50Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/test.html</loc>
+		
+    <lastmod>2022-03-29T17:44:39Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/maps/</loc>
+		
+    <lastmod>2022-03-30T01:00:28Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/end/</loc>
+		
+    <lastmod>2022-03-30T02:07:52Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/start/</loc>
+		
+    <lastmod>2022-03-30T02:08:04Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/maps/featuredemo/</loc>
+		
+    <lastmod>2022-03-30T02:09:46Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/timeline-demo/</loc>
+		
+    <lastmod>2022-03-30T02:21:40Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/all-map-layers.json</loc>
+		
+    <lastmod>2022-03-30T10:47:21Z</lastmod>
+		
   </url>
 </urlset>
