@@ -1,6 +1,6 @@
 ---
 title: "Proposal"
-description: "A proposal"
+description: "Mess around here"
 ---
 # Proposal
 https://www.youtube.com/watch?v=Q3dvbM6Pias
