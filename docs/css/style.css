@@ -753,7 +753,7 @@ pre[class*=language-] {
   transition: 180ms opacity ease-in-out;
   opacity: 0.3;
   font-size: 0.6em;
-  float: left0.6rem
+  float: left;
   margin-left: -2rem;
   vertical-align: bottom;
   text-decoration: none;
@@ -903,4 +903,33 @@ a.tdbc-ink--dark {
 
 .tdbc-mb-none {
   margin-bottom: 0;
+}
+
+.tdbc-container.gallery-page {
+  width: 100vw;
+  max-width: unset;
+  margin: 20px;
+}
+.tdbc-container.gallery-page article.gallery {
+  display: grid;
+  grid-template-columns: minmax(350px, 2fr) minmax(350px, 1fr);
+  max-width: 100%;
+}
+.tdbc-container.gallery-page article.gallery section.items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(326px, 1fr));
+}
+
+@media screen and (max-width: 600px) {
+  .tdbc-container.gallery-page article.gallery {
+    margin-left: auto;
+    margin-right: auto;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-auto-rows: minmax(100px, auto);
+  }
+  .tdbc-container.gallery-page article.gallery section.items {
+    margin-left: auto;
+    margin-right: auto;
+    grid-template-columns: repeat(auto-fill, minmax(326px, 1fr));
+  }
 }

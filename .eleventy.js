@@ -46,6 +46,22 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addFilter("instamarkup", function(url, options, index) {
+    const pattern = /(?=(\s*))\1(?:<a [^>]*?>)??(?=(\s*))\2(?:https?:\/\/)?(?:w{3}\.)?(?:instagram\.com)\/(?:p\/)?([0-9a-zA-Z-_]{11})(?:\S*)(?=(\s*))\4(?:<\/a>)?(?=(\s*))\5/;
+    const match = pattern.exec(url)
+    const id = match ? match[3] : null
+    let out = ''
+    if (id) {
+      out = '<blockquote ';
+      // class MUST include "instagram-media" because Instagram's script uses it for DOM parsing
+      out += `class="jade-gallery instagram-media"`;
+      out += ` data-instgrm-permalink="https://www.instagram.com/p/${id}">`;
+      out += '</blockquote>';
+    } else {
+      out = `<blockquote class="jade-gallery instagram-media">media not found</blockquote>`;
+    }
+    return out;
+
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
