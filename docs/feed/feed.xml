@@ -256,20 +256,17 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 	</entry>
 	
 	<entry>
-		<title></title>
+		<title>Proposal</title>
 		<link href="https://github.com/hh-project-11ty-starter-kit/proposal/"/>
 		<updated>2022-03-09T20:59:20Z</updated>
 		<id>https://github.com/hh-project-11ty-starter-kit/proposal/</id>
-		<content type="html">&lt;!-- change title and description, put three section: topic, audience, structure--&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;title-proposaldescription-a-proposal&quot; tabindex=&quot;-1&quot;&gt;title: &amp;quot;Proposal&amp;quot;
-description: &amp;quot;A proposal&amp;quot;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://github.com/hh-project-11ty-starter-kit/proposal/#title-proposaldescription-a-proposal&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&quot;proposal&quot; tabindex=&quot;-1&quot;&gt;Proposal&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://github.com/hh-project-11ty-starter-kit/proposal/#proposal&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;#Topic&lt;/p&gt;
+		<content type="html">&lt;h1 id=&quot;proposal&quot; tabindex=&quot;-1&quot;&gt;Proposal&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://github.com/hh-project-11ty-starter-kit/proposal/#proposal&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=Q3dvbM6Pias&lt;/p&gt;
+&lt;h2 id=&quot;topic&quot; tabindex=&quot;-1&quot;&gt;Topic&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://github.com/hh-project-11ty-starter-kit/proposal/#topic&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;I am exploring visual means with which to study the behavior of Iranian political crowds during the 1979 Iranian Revolution. Much of the existing research into political crowds aims to disaggregate them and otherwise describe them using information about them. For example: we may identify who organized a protest, what political groups they represented, how many followers showed up, where they went, what they said (e.g. slogans), and what the reaction to it was. These pieces of information help us reconstruct a crowd with words. This is important when primary evidence of crowds is scarce, such as if there are few surviving participants or contemporary written accounts. Luckily, the Iranian Revolution was one of the most televised and photographed revolutions in human history, giving us a wealth of actual visual evidence to examine.&lt;/p&gt;
-&lt;p&gt;#Audience&lt;/p&gt;
+&lt;h2 id=&quot;audience&quot; tabindex=&quot;-1&quot;&gt;Audience&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://github.com/hh-project-11ty-starter-kit/proposal/#audience&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;This project is geared toward those interested in Iran, Middle Eastern Studies, and social history. The idea is to construct a repository of images with analysis of major demonstrations between late 1977 and early 1979 - the period of revolutionary transition leading up to Ayatollah Khomeini&#39;s return to Iran from exile in Paris.&lt;/p&gt;
-&lt;p&gt;#Structure&lt;/p&gt;
+&lt;h2 id=&quot;structure&quot; tabindex=&quot;-1&quot;&gt;Structure&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://github.com/hh-project-11ty-starter-kit/proposal/#structure&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The structure of this website is still a work in progress, but will likely include sections devoted to particular major demonstrations with images, video, and other visual data representing them, as well as analysis of the crowds which formed, their sociological composition, and other information from secondary source research.&lt;/p&gt;
 </content>
 	</entry>

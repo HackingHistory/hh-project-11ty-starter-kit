@@ -3,6 +3,7 @@ title: "Proposal"
 description: "A proposal"
 ---
 # Proposal
+https://www.youtube.com/watch?v=Q3dvbM6Pias
 
 ## Topic 
 
