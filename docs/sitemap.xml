@@ -11,7 +11,7 @@
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
 		
-    <lastmod>2022-03-30T13:18:42Z</lastmod>
+    <lastmod>2022-03-30T19:23:17Z</lastmod>
     
   </url>
   
@@ -82,6 +82,13 @@
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/all-map-layers.json</loc>
 		
     <lastmod>2022-03-30T13:18:42Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/armin/</loc>
+		
+    <lastmod>2022-03-30T19:23:17Z</lastmod>
 		
   </url>
 </urlset>

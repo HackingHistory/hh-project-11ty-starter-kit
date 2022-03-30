@@ -5,7 +5,7 @@
 	
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/feed/" rel="self"/>
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/"/>
-	<updated>2022-03-30T02:21:40Z</updated>
+	<updated>2022-03-30T19:23:17Z</updated>
 	<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</id>
 	<author>
 		<name>Matt Price via @5t3ph</name>
@@ -261,6 +261,16 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 		<updated>2022-03-30T02:21:40Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/timeline-demo/</id>
 		<content type="html">&lt;h2 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;hello&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/timeline-demo/#hello&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Proposal armin</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/armin/"/>
+		<updated>2022-03-30T19:23:17Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/armin/</id>
+		<content type="html">&lt;h1 id=&quot;proposal&quot; tabindex=&quot;-1&quot;&gt;Proposal&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/armin/#proposal&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=Q3dvbM6Pias&lt;/p&gt;
 </content>
 	</entry>
 </feed>
