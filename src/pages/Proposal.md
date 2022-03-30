@@ -22,6 +22,8 @@ Within Russian same-sex couples and families are not privy to the same social se
 
 Additionally, in 2013 Russia passed a "gay propaganda" law that acts as a political arm to suppress gay rights, education, and community online and physically. Members of parliament argue that the objective of the law is to "protect children" from finding information unnatural and immoral people and simultaneously champion "tradtional" family values and structures. 
 
+However, Russian creatives have found a loophole to these laws through international social media giants such as Instagram as a way to network across borders, organizations with the capacity to attract thousands of people. Moreover, social media does not follow the same political lines or organizations; this allows the collaboration and networking between cultural leaders, artistic creatives, political activists, and the unassociated queer population to connect on the commonality of queer. 
+
 https://www.instagram.com/p/B6scc4ejFzJ/
 
 https://www.instagram.com/p/CXOqKRFrQMF/
