@@ -3,6 +3,8 @@ title: "Proposal"
 description: "Mess around here"
 ---
 # Proposal
+A video:
+
 https://www.youtube.com/watch?v=Q3dvbM6Pias
 
 ## Topic 
