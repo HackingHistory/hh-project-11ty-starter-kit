@@ -10,7 +10,7 @@ to your **personal** account.
 1. Once cloned, run `npm install` to install 11ty and other dependencies. Then run `npm start`
 to start a server which will (mostly) auto-update as you work.
 Use `npm run build` to run a "production" version, which will also generate
-social share preview images.
+social share preview images.npm
 
 1. Open `src/_data/meta.js`, and update the metadata for the site
 
