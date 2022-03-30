@@ -11,10 +11,11 @@ const markdownItFootnote = require("markdown-it-footnote")
 // Local utilities/data
 const packageVersion = require("./package.json").version;
 const pluginTOC = require('eleventy-plugin-toc');
-
+const embeds = require("eleventy-plugin-embed-everything");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(socialImages);
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(embeds);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC, {
   tags: ['h2', 'h3', 'h4'], // which heading tags are selected headings must each have an ID attribute

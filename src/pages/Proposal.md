@@ -20,4 +20,4 @@ The intended audience for this project is Queer youth who are interested in fash
 - [A Russian queer revolution is in the making and you can now follow it on Instagram](https://www.calvertjournal.com/articles/show/11647/russian-queer-creatives-instagram-follow-of-the-week).
 - [How 2 Erotic-Themed Menswear Labels Are Changing Stereotypes in Eastern Europe](https://www.vogue.com/article/ukraine-menswear-anton-belinskiy-ivan-frolov).
 - [Party at Kyiv's Momentous Queer Rave and Acceptance Comes First](https://www.calvertjournal.com/features/show/11215/veselka-queer-rave-kyiv-ukraine-nightlife-lgbtq).
- 
+ [https://www.instagram.com/p/B6scc4ejFzJ/](/instagram).
