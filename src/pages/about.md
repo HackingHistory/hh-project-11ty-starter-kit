@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "A brief introduction to this starter kit."
+description: "delete this later"
 ---
 ## Intro to Jumpstart
 
