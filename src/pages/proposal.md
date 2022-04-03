@@ -21,6 +21,11 @@ As Canadians begin to address and reconcile the past policies of their governmen
 
 #### Deliverables
 
+1. Scanned pages of text books and course materials
+2. Document and rhetorical analysis of material
+3. Website archive of material and analysis
+4. 
+
 #### Performance Measures
 
 #### Audience and Stakeholders
@@ -68,7 +73,7 @@ Reference Letters: Three letters of reference are required for UofT's MA History
 
 For this project to be successful, and to improve my chances of a submitting a successful MA application, I will need to build a team of support including advisors and Subject Matter Experts. I envision needing the following people: 
 
-* Project sponsor and advisor (Matt Price?)
+* Project sponsor and advisor
 * Curriculum history specialist (OISE)
 * Education specialist (OISE)
 * Indigenous history scholar (UofT)
