@@ -150,3 +150,14 @@ As I began to reflect on news and findings, I wondered what the responsability o
 5. Data analysis
 6. Reaching conclusions
 8. Completing the research
+
+
+## Digital Projects Proposal Assessment Questions (ECDS)
+* Is the project of scholarly significance to relevant fields of inquiry?
+* Will the project's content be enhanced through digital intervention, and if so, how?
+* Is the project within the scope of the ECDS mission and priorities?
+* Is the project achievable with the current staff and resources available to ECDS and the project proposer? If not, can we build a sustainable proof of concept and work with the proposer to pursue external funding for further development?
+* Is the project achievable given the project proposer's current research, teaching, and/or work load?
+* Is the project sustainable? Consider who will be maintaining the project after ECDS, where the project will be stored, the lifecycle of the project, and if it can be archived.
+* Is the project predicated upon the ability to secure rights to copyrighted material, digitizing analog materials, partnering with other institutions, receiving external funding, or other contingencies?
+
