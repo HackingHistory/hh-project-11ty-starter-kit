@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "A brief introduction to this starter kit."
+order: 3
 ---
 ## Intro to Jumpstart
 
