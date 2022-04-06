@@ -1,0 +1,35 @@
+body.gallery-page .tdbc-container, .trbc-container.gallery-page {
+    width: 100vw;
+    max-width: 160ch;
+    margin: 20px;
+    article.tdbc-mx-auto, article.gallery {
+        max-width: 120ch;       
+    }
+}
+
+article.gallery {
+    display: grid;
+    grid-template-columns: minmax(350px, 2fr) minmax(350px, 1fr);
+    max-width: 100%;
+    section.items {
+        display: grid;
+        grid-template-columns: repeat( auto-fill, minmax(326px, 1fr) );
+    }
+}
+
+@media screen and (max-width: 600px) {
+    
+    .tdbc-container.gallery-page article.gallery {
+        margin-left: auto;
+        margin-right: auto;
+        
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        grid-auto-rows: minmax(100px, auto);
+        section.items {
+            margin-left: auto;
+            margin-right: auto;
+            grid-template-columns: repeat( auto-fill, minmax(326px, 1fr) );
+        }
+
+    }
+}
