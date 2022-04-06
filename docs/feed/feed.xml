@@ -5,7 +5,7 @@
 	
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/feed/" rel="self"/>
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/"/>
-	<updated>2022-03-09T20:35:26Z</updated>
+	<updated>2022-04-06T01:57:38Z</updated>
 	<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</id>
 	<author>
 		<name>Jade Nelson </name>
@@ -258,7 +258,7 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 	<entry>
 		<title>Proposal Test page Assignment</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Proposal/"/>
-		<updated>2022-03-09T20:35:26Z</updated>
+		<updated>2022-04-06T01:57:38Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Proposal/</id>
 		<content type="html">&lt;h2 id=&quot;topic-description&quot; tabindex=&quot;-1&quot;&gt;Topic Description&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Proposal/#topic-description&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;This project will explore how Eastern European indie fashion designers and queer rave subcultures generate an international queer revolution using public forums such as Instagram. I will be primarily be looking at Russian and Ukrainian fashion and their impact on sites like Instagram, I-D, and Vogue. Additionally, I would like to create 2-3 pages including traditional academic information/theory. A second page prioritizes Instagrams, articles, and websites links to different fashion brands. And a third comparative page that has a timeline of different Queer Fashion revolutions from the early years of vogue, the queer liberation movement, to contemporary Eastern Europe.&lt;/p&gt;
@@ -271,10 +271,17 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 &lt;li&gt;The second sub-page will house images and external digital media such as Instagram posts journal and magazine entries. This page will also be full of links to the different fashion houses mentioned in the first sub-page.&lt;/li&gt;
 &lt;li&gt;The Third sub-page will again be a writing heavy page about Queer communities and right in Soviet Russia&lt;/li&gt;
 &lt;/ul&gt;
+&lt;article class=&quot;gallery&quot;&gt;
+&lt;section class=&quot;items&quot;&gt;
+&lt;blockquote class=&quot;jade-gallery instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/B6scc4ejFzJ&quot;&gt;&lt;/blockquote&gt;&lt;blockquote class=&quot;jade-gallery instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CLUBQZknOVc&quot;&gt;&lt;/blockquote&gt;&lt;blockquote class=&quot;jade-gallery instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/CXOqKRFrQMF&quot;&gt;&lt;/blockquote&gt;&lt;blockquote class=&quot;jade-gallery instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/B6vr2ZQjYJq&quot;&gt;&lt;/blockquote&gt;&lt;blockquote class=&quot;jade-gallery instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BYvEqoUAqBc&quot;&gt;&lt;/blockquote&gt;&lt;blockquote class=&quot;jade-gallery instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/B8tjuYzBUZL&quot;&gt;&lt;/blockquote&gt;
+&lt;/section&gt;
+&lt;section class=&quot;text&quot;&gt;
 &lt;h3 id=&quot;contemporary-fashion-art-and-activism-uniting-a-community-across-lines&quot; tabindex=&quot;-1&quot;&gt;Contemporary Fashion, Art and Activism: Uniting a Community Across Lines&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Proposal/#contemporary-fashion-art-and-activism-uniting-a-community-across-lines&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Although Queerness itself, such as sexuality, has not been criminalized since 1993 in Russia and 1991 in Ukraine, homosexuality, Queerness, and queer culture have largely disapproved, ostracized, policed and punished by the Russian and Ukrainian communities.&lt;/p&gt;
 &lt;p&gt;Within Russian same-sex couples and families are not privy to the same social services, legal rights and protections as heterosexual couples. For example, the state does not recognize marriage between same-sex couples, nor are LGBTQ individuals protected against discrimination and hate crimes. Additionally, traditional forms of protest for Queer Rights such as organized public protest, government criticism, blockades, and marches most affiliated with the New York Gay Rights movement are not legal nor transposable within the Russian state or context. Since 2014, protests, freedom of assembly without government officials&#39; expressed approval have been criminalized and punishable in Russia.&lt;/p&gt;
 &lt;p&gt;Additionally, in 2013 Russia passed a &amp;quot;gay propaganda&amp;quot; law that acts as a political arm to suppress gay rights, education, and community online and physically. Members of parliament argue that the objective of the law is to &amp;quot;protect children&amp;quot; from finding information unnatural and immoral people and simultaneously champion &amp;quot;tradtional&amp;quot; family values and structures.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/article&gt;
 &lt;p&gt;However, Russian creatives have found a loophole to these laws through international social media giants such as Instagram as a way to network across borders, organizations with the capacity to attract thousands of people. Moreover, social media does not follow the same political lines or organizations; this allows the collaboration and networking between cultural leaders, artistic creatives, political activists, and the unassociated queer population to connect on the commonality of queer.&lt;/p&gt;
 &lt;p&gt;https://www.instagram.com/p/B6scc4ejFzJ/&lt;/p&gt;
 &lt;p&gt;https://www.instagram.com/p/CXOqKRFrQMF/&lt;/p&gt;

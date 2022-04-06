@@ -905,17 +905,21 @@ a.tdbc-ink--dark {
   margin-bottom: 0;
 }
 
-.tdbc-container.gallery-page {
+body.gallery-page .tdbc-container, .trbc-container.gallery-page {
   width: 100vw;
-  max-width: unset;
+  max-width: 160ch;
   margin: 20px;
 }
-.tdbc-container.gallery-page article.gallery {
+body.gallery-page .tdbc-container article.tdbc-mx-auto, body.gallery-page .tdbc-container article.gallery, .trbc-container.gallery-page article.tdbc-mx-auto, .trbc-container.gallery-page article.gallery {
+  max-width: 120ch;
+}
+
+article.gallery {
   display: grid;
   grid-template-columns: minmax(350px, 2fr) minmax(350px, 1fr);
   max-width: 100%;
 }
-.tdbc-container.gallery-page article.gallery section.items {
+article.gallery section.items {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(326px, 1fr));
 }
