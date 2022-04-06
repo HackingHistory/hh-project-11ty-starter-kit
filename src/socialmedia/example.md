@@ -1,7 +1,8 @@
 ---
 title: "Queer Fashion Before Ukraine"
-instalinks: ["https://www.instagram.com/p/B6scc4ejFzJ/", "https://www.instagram.com/p/CLUBQZknOVc/", "https://www.instagram.com/p/CXOqKRFrQMF/", "https://www.instagram.com/p/B6vr2ZQjYJq/", "https://www.instagram.com/p/BYvEqoUAqBc/?hl=en", "https://www.instagram.com/p/B8tjuYzBUZL/"]
+instalinks: ["https://www.instagram.com/p/B6scc4ejFzJ/", "https://www.instagram.com/p/CLUBQZknOVc/","https://www.instagram.com/p/CXOqKRFrQMF/", "https://www.instagram.com/p/B6vr2ZQjYJq/","https://www.instagram.com/p/BYvEqoUAqBc/?hl=en","https://www.instagram.com/p/B8tjuYzBUZL/"]
 tags: ["fashion"]
+layout: "gallery-section.njk"
 ---
 
 Now I'm writing some markdown to describe and analyze the image.  whatever I write here is going to be displayed next to the image.

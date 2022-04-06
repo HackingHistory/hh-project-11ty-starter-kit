@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+{% include 'sitenav.njk' %}
+{% include 'header.njk' %}
+
+<main class="tdbc-container gallery-page">
+    <article class="gallery">
+      <section class="items">
+        {% for link in instalinks %}
+          {% if loop.last %}<script async defer src="https://www.instagram.com/embed.js"></script>{% endif %}
+          {{link | instamarkup | safe }}
+          {% endfor %}
+      </section>
+      <section class="text">
+        {{ content | safe }}
+      </section>
+    </article>
