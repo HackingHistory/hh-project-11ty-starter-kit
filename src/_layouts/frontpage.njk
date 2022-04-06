@@ -1,9 +1,9 @@
 ---
 layout: base.njk
-templateEngineOverride: md, njk
 bodyClass: front-page
 ---
 
+{% include 'sitenav.njk' %}
 
 <header class="tdbc-hero">
   <div class="tdbc-container">
@@ -31,7 +31,7 @@ bodyClass: front-page
         </g>
       </svg>
     </span>
-    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ meta.siteName }}</h1>
+    <h1 class="tdbc-ink--primary tdbc-mb-none"> {{ meta.siteName }}</h1>
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       {{ meta.siteDescription }}
     </h2>
@@ -50,9 +50,6 @@ bodyClass: front-page
       {%- endfor -%}
     </ul>
   </div>
-
-  <h2 id="quickstart" class="tdbc-h3 tdbc-mt-lg">Quick Start</h2>
-
   
 {{ content | safe }}
 

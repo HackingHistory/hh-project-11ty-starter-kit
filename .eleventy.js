@@ -13,13 +13,15 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote")
 // Local utilities/data
 const packageVersion = require("./package.json").version;
-const mapboxToken='pk.eyJ1IjoidGl0YW5pdW1ib25lcyIsImEiOiJjazF0bTdlNXQwM3gxM2hwbXY0bWtiamM3In0.FFPm7UIuj_b15xnd7wOQig'
-// function w/ 3 parameters: youtube link, options, index (not sure how to deal w/ that)
+
+const pluginTOC = require('eleventy-plugin-toc');
+const embeds = require("eleventy-plugin-embed-everything");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(socialImages);
   eleventyConfig.addPlugin(embeds);
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(embeds);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC, {
     tags: ['h2', 'h3', 'h4'], // which heading tags are selected headings must each have an ID attribute
