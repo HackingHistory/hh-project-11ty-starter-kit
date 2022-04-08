@@ -5,7 +5,7 @@
 	
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/feed/" rel="self"/>
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/"/>
-	<updated>2022-03-20T01:16:03Z</updated>
+	<updated>2022-04-03T18:20:05Z</updated>
 	<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</id>
 	<author>
 		<name>Michael Demone</name>
@@ -21,8 +21,12 @@
 &lt;p&gt;Hacking History equipped with the foundation knowledge in technology, data, to begin to think, plan, and develop projects for the Digital Humanities.&lt;/p&gt;
 &lt;p&gt;The current stage of the project is exploratory and experimental.&lt;/p&gt;
 &lt;h2 id=&quot;inspiration&quot; tabindex=&quot;-1&quot;&gt;Inspiration&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#inspiration&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;For many Canadians, the concept of reconciliation is a matter of government policy. Fortunately, the movement towards reconciliation recieves ample news coverage and we can now see businesses and institutiions introduce ways to include indigenous lives into their work and operational cultures. These are important and necessary moves, but I wonder what the &#39;average&#39; Canadian can do, on a human level, to connect with thier own past and make connections with indigenous commmunities.&lt;/p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/img/belt.jpg&quot; alt=&quot;The Friendship Belt Tehontatenentsonterontahkhwa&quot; /&gt;&lt;/p&gt;
+&lt;figcaption align=&quot;left&quot;&gt;The Friendship Belt, or The Covenant Chain belt, represents one of the earliest treaties between the Crown and First Nations peoples and established the foundation for First Nations - Crown relationships for generations thereafter. The belt shows that the Crown is linked by a chain to the First Nations peoples of this land. The three links of the chain represent a covenant of friendship, good minds, and the peace which shall always remain between us. The covenant chain is made of silver symbolizing that the relationship will be polished from time to time to keep it from tarnishing. This was the basis of the Nation to Nation relationship between the British Crown and the First Nations who became their allies in the formation of early Canada. [Image attribution] (https://vitacollections.ca/sixnationsarchive/details.asp?ID=2687120).&lt;figcaption&gt;
 &lt;h2 id=&quot;statement-of-purpose&quot; tabindex=&quot;-1&quot;&gt;Statement of Purpose&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#statement-of-purpose&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-</content>
+&lt;/figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
 	</entry>
 	
 	<entry>
@@ -48,6 +52,12 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 &lt;h4&gt;&lt;/h4&gt;
 &lt;h4&gt;Tools and Methods&lt;/h4&gt;
 &lt;h4&gt;Deliverables&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Scanned pages of text books and course materials&lt;/li&gt;
+&lt;li&gt;Document and rhetorical analysis of material&lt;/li&gt;
+&lt;li&gt;Website archive of material and analysis&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h4&gt;Performance Measures&lt;/h4&gt;
 &lt;h4&gt;Audience and Stakeholders&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Primary&lt;/strong&gt;&lt;/p&gt;
@@ -92,7 +102,7 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 &lt;h4&gt;Building a Project Team&lt;/h4&gt;
 &lt;p&gt;For this project to be successful, and to improve my chances of a submitting a successful MA application, I will need to build a team of support including advisors and Subject Matter Experts. I envision needing the following people:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Project sponsor and advisor (Matt Price?)&lt;/li&gt;
+&lt;li&gt;Project sponsor and advisor&lt;/li&gt;
 &lt;li&gt;Curriculum history specialist (OISE)&lt;/li&gt;
 &lt;li&gt;Education specialist (OISE)&lt;/li&gt;
 &lt;li&gt;Indigenous history scholar (UofT)&lt;/li&gt;
@@ -150,6 +160,30 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 &lt;li&gt;Reaching conclusions&lt;/li&gt;
 &lt;li&gt;Completing the research&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&quot;digital-projects-proposal-assessment-questions-ecds&quot; tabindex=&quot;-1&quot;&gt;Digital Projects Proposal Assessment Questions (ECDS)&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#digital-projects-proposal-assessment-questions-ecds&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the project of scholarly significance to relevant fields of inquiry?&lt;/li&gt;
+&lt;li&gt;Will the project&#39;s content be enhanced through digital intervention, and if so, how?&lt;/li&gt;
+&lt;li&gt;Is the project within the scope of the ECDS mission and priorities?&lt;/li&gt;
+&lt;li&gt;Is the project achievable with the current staff and resources available to ECDS and the project proposer? If not, can we build a sustainable proof of concept and work with the proposer to pursue external funding for further development?&lt;/li&gt;
+&lt;li&gt;Is the project achievable given the project proposer&#39;s current research, teaching, and/or work load?&lt;/li&gt;
+&lt;li&gt;Is the project sustainable? Consider who will be maintaining the project after ECDS, where the project will be stored, the lifecycle of the project, and if it can be archived.&lt;/li&gt;
+&lt;li&gt;Is the project predicated upon the ability to secure rights to copyrighted material, digitizing analog materials, partnering with other institutions, receiving external funding, or other contingencies?&lt;/li&gt;
+&lt;/ul&gt;
 </content>
+	</entry>
+	
+	<entry>
+		<title>Document Study Sample</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/"/>
+		<updated>2022-04-03T18:20:05Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/img/wigwam.jpeg&quot; alt=&quot;Wigwam schoolbook illustration&quot; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;title&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#title&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;issue&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Issue&lt;/strong&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#issue&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;date&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#date&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;genre&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Genre&lt;/strong&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#genre&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;iframe src=&quot;https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PvcYDRdwoR-NM7lUlYzJAWV1kcKP1GZ-1F1qHdYScL4&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&quot; width=&quot;100%&quot; height=&quot;650&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</content>
 	</entry>
 </feed>
