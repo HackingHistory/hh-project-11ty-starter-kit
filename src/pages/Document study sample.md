@@ -2,6 +2,7 @@
 title: "Document Study Sample"
 description: 
 ---
+
 <table>
 <tr>
 <th>Title:</th>
@@ -22,8 +23,19 @@ description:
 </tr>
 </table>
 
+---
 
 ![Wigwam schoolbook illustration](../img/wigwam.jpeg)
+
+### Analysis
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in elit purus. Nam sed sem nec enim laoreet convallis ut ac lacus. Pellentesque posuere magna sit amet iaculis maximus. In fermentum nibh mi, non consectetur turpis fringilla ac. Sed viverra pharetra metus in luctus.<br>
+
+
+Donec ullamcorper, felis quis condimentum molestie, turpis nisl pulvinar turpis, ut posuere arcu mi vel ante. Maecenas non fringilla velit. Nunc nisl nibh, volutpat vel ante ac, ullamcorper blandit mauris. Vivamus mattis mi nec sapien consectetur maximus. In ante ex, eleifend et pellentesque sit amet, ultricies et nisl. Duis hendrerit finibus posuere. In blandit metus nec lorem pretium, quis feugiat ex facilisis.
+
+Suspendisse volutpat euismod justo sit amet efficitur. Aenean sodales mi at arcu tristique lacinia. Vestibulum bibendum tincidunt odio ut iaculis. Sed arcu magna, dictum in ipsum sed, sagittis condimentum lacus. Ut fringilla mattis diam, varius ultricies libero consequat vitae. Morbi quis rutrum urna, sit amet pulvinar elit. Nulla lacinia mollis nibh nec vestibulum. Donec sit amet fermentum sem. Fusce euismod turpis sem, at lacinia felis consectetur id.
+
+
 
 
 
