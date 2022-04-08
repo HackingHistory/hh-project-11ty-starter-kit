@@ -1,5 +1,5 @@
 ---
-title: "Document Study Sample"
+title: "Document Study (Sample)"
 description: 
 ---
 
@@ -39,7 +39,7 @@ description:
 ![Wigwam schoolbook illustration](../img/wigwam.jpeg)
 
 ### Analysis
-Several types of quantitative and qualitative analysis will be employed for this project including content analysis, such as coding, discourse analysis, and interpretive analysis.<br>
+Several types of quantitative and qualitative analysis will be employed for this project including content analysis, such as coding, discourse analysis, and interpretive analysis. The standard historical document analysis framework of identifying the purpose, message, and audience....
 
 
 Donec ullamcorper, felis quis condimentum molestie, turpis nisl pulvinar turpis, ut posuere arcu mi vel ante. Maecenas non fringilla velit. Nunc nisl nibh, volutpat vel ante ac, ullamcorper blandit mauris. Vivamus mattis mi nec sapien consectetur maximus. In ante ex, eleifend et pellentesque sit amet, ultricies et nisl. Duis hendrerit finibus posuere. In blandit metus nec lorem pretium, quis feugiat ex facilisis.
