@@ -2,26 +2,29 @@
 title: "Document Study Sample"
 description: 
 ---
+<table>
+<tr>
+<th>Title:</th>
+<td>The Canadian Stories Reader</td>
+</tr>
+<tr>
+<th>Year:</th>
+<td>1970</td>
+</tr>
+<tr>
+<th>Volume:</th>
+<td>Fifteen</td>
+</tr>
+<tr>
+<th>Genre:</th>
+<td>Canadian/Social studies</td>
+</tr>
+</tr>
+</table>
+
 
 ![Wigwam schoolbook illustration](../img/wigwam.jpeg)
 
-
-**Title:** The Canadian Stories Reader
-
-**Issue**
-
-**Date**
-
-**Genre**
-
-Title
-: The Canadian Stories Reader
-
-Issue
-: Volume 17
-
-Year
-: 1970
 
 
 
