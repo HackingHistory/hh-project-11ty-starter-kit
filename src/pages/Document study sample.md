@@ -20,6 +20,9 @@ description:
 <th>Genre:</th>
 <td>Canadian/Social studies</td>
 </tr>
+<tr>
+<th>Region:</th>
+<td>Ontario</td>
 </tr>
 </table>
 
