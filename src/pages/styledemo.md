@@ -15,8 +15,11 @@ description: "It's important for this project that it offer opportuniites for re
  <textarea name="message" rows="10" cols="60">
 </textarea> 
 
-
+<form>
 <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname">
+  <input type="email">
+  </form>
+
