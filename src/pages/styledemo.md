@@ -1,17 +1,19 @@
 ---
 title: "Your story"
-description: "Share your story, memory, or thoughts"
+description: "It's important for this project that it offer opportuniites for reflection. If the material you have encountered to recall a memory, feeling, etc."
 ---
 <h4>I would like to share:</h4>
 <form>
-  <input type="radio" id="html" name="fav_language" value="Memory">
-  <label for="html">Memory</label><br>
-  <input type="radio" id="css" name="fav_language" value="Story">
-  <label for="css">Story</label><br>
-  <input type="radio" id="javascript" name="fav_language" value="Thoughts">
-  <label for="javascript">Thoughts</label>
+  <input type="radio" id="html" name="fav_language" value="A memory">
+  <label for="html">A memory</label><br>
+  <input type="radio" id="css" name="fav_language" value="A story">
+  <label for="css">A story</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="Some thoughts">
+  <label for="javascript">Some thoughts</label>
 </form>
 
+ <textarea name="message" rows="10" cols="60">
+</textarea> 
 
 
 <label for="fname">First name:</label><br>
