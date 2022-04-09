@@ -7,3 +7,9 @@
     font-display: swap;
 }
 
+th {
+    text-align: left;
+  }
+  tr {
+    border-bottom: 1px solid #ddd;
+  }

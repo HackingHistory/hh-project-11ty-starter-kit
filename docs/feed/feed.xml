@@ -174,16 +174,46 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 	</entry>
 	
 	<entry>
-		<title>Document Study Sample</title>
+		<title>Document Study (Sample)</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/"/>
 		<updated>2022-04-03T18:20:05Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/img/wigwam.jpeg&quot; alt=&quot;Wigwam schoolbook illustration&quot; /&gt;&lt;/p&gt;
+		<content type="html">&lt;table&gt;
+&lt;tr&gt;
+&lt;th&gt;Title:&lt;/th&gt;
+&lt;td&gt;The Canadian Stories Reader&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Year:&lt;/th&gt;
+&lt;td&gt;1970&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Genre/Subject:&lt;/th&gt;
+&lt;td&gt;Canadian/Social studies&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Material:&lt;/th&gt;
+&lt;td&gt;Textbook&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Grade level:&lt;/th&gt;
+&lt;td&gt;9-12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Region:&lt;/th&gt;
+&lt;td&gt;Ontario&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Publisher:&lt;/th&gt;
+&lt;td&gt;Peter Martin&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 &lt;hr /&gt;
-&lt;h2 id=&quot;title&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#title&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&quot;issue&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Issue&lt;/strong&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#issue&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&quot;date&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#date&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&quot;genre&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Genre&lt;/strong&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#genre&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/img/wigwam.jpeg&quot; alt=&quot;Wigwam schoolbook illustration&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;analysis&quot; tabindex=&quot;-1&quot;&gt;Analysis&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/#analysis&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Several types of quantitative and qualitative analysis will be employed for this project including content analysis, such as coding, discourse analysis, and interpretive analysis. The standard historical document analysis framework of identifying the purpose, message, and audience....&lt;/p&gt;
+&lt;p&gt;Donec ullamcorper, felis quis condimentum molestie, turpis nisl pulvinar turpis, ut posuere arcu mi vel ante. Maecenas non fringilla velit. Nunc nisl nibh, volutpat vel ante ac, ullamcorper blandit mauris. Vivamus mattis mi nec sapien consectetur maximus. In ante ex, eleifend et pellentesque sit amet, ultricies et nisl. Duis hendrerit finibus posuere. In blandit metus nec lorem pretium, quis feugiat ex facilisis.&lt;/p&gt;
+&lt;p&gt;Suspendisse volutpat euismod justo sit amet efficitur. Aenean sodales mi at arcu tristique lacinia. Vestibulum bibendum tincidunt odio ut iaculis. Sed arcu magna, dictum in ipsum sed, sagittis condimentum lacus. Ut fringilla mattis diam, varius ultricies libero consequat vitae. Morbi quis rutrum urna, sit amet pulvinar elit. Nulla lacinia mollis nibh nec vestibulum. Donec sit amet fermentum sem. Fusce euismod turpis sem, at lacinia felis consectetur id.&lt;/p&gt;
 &lt;iframe src=&quot;https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PvcYDRdwoR-NM7lUlYzJAWV1kcKP1GZ-1F1qHdYScL4&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&quot; width=&quot;100%&quot; height=&quot;650&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</content>
 	</entry>
 </feed>

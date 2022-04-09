@@ -3,6 +3,19 @@ title: "Document Study (Sample)"
 description: 
 ---
 
+<html>
+<head>
+<style>
+th {
+  text-align: left;
+}
+tr {
+  border-bottom: 1px solid #ddd;
+}
+</style>
+</head>
+<body>
+
 <table>
 <tr>
 <th>Title:</th>
