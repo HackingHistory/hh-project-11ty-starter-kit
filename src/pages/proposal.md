@@ -50,6 +50,7 @@ As Canadians begin to address and reconcile the past policies of their governmen
 * Media
 
 * Graduate school application panel 
+
 * Grants, scholarships, other financial supporters
 
 * Publications: Peer-reviewed journals, popular media, DH publications and outlets, etc. 
