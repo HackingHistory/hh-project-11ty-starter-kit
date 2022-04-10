@@ -1,9 +1,7 @@
 ---
 title: "Your story"
-description: "It's important for this project that it offer opportuniites for reflection. If the material you have encountered to recall a memory, feeling, etc." What do you remmeber learning about First Nations in school? Looking back, what do you think about what you were taught? 
+description: "It's important for this project that it offer opportuniites for reflection."
 ---
-
-
 <h4>I would like to share:</h4>
 <form>
   <input type="radio" id="html" name="fav_language" value="A memory">
