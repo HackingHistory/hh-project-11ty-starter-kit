@@ -2,6 +2,10 @@
 title: "Your story"
 description: "It's important for this project that it offer opportuniites for reflection."
 ---
+<!DOCTYPE html>
+<html>
+<body>
+
 <h4>I would like to share:</h4>
 <form>
   <input type="radio" id="html" name="fav_language" value="A memory">
@@ -22,12 +26,14 @@ description: "It's important for this project that it offer opportuniites for re
   <input type="text" id="lname" name="lname">
   <input id="emailAddress" type="email" multiple>
   </form>
- <p1>May we make your contribution public?</p1>
+ <h3>May we publish your contribution?</h3>
+
 <form>
-  <input type="radio" id="yes" name="fav_language" value="Yes">
-  <label for="html">HTML</label><br>
-  <input type="radio" id="css" name="fav_language" value="CSS">
-  <label for="css">CSS</label><br>
-  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-  <label for="javascript">JavaScript</label>
+  <input type="radio" id="yes" name="options" value="Yes">
+  <label for="yes">Yes</label><br>
+  <input type="radio" id="no" name="options" value="No">
+  <label for="no">No</label><br>
 </form> 
+
+</body>
+</html>
