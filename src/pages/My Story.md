@@ -26,6 +26,7 @@ description: "It's important for this project that it offer opportuniites for re
   <input type="text" id="lname" name="lname">
   <input id="emailAddress" type="email" multiple>
   </form>
+  
  <h3>May we publish your contribution?</h3>
 
 <form>
