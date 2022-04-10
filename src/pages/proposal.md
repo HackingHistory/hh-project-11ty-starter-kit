@@ -22,9 +22,9 @@ As Canadians begin to address and reconcile the past policies of their governmen
 #### Deliverables
 
 1. Scanned pages of text books and course materials
-2. Document and rhetorical analysis of material
+2. Analysis of material
 3. Website archive of material and analysis
-4. 
+4. My Story visitor contribution tool
 
 #### Performance Measures
 
