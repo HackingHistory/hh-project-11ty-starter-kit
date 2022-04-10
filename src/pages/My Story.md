@@ -2,6 +2,7 @@
 title: "Your story"
 description: "It's important for this project that it offer opportuniites for reflection."
 ---
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -23,10 +24,11 @@ description: "It's important for this project that it offer opportuniites for re
 <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname"><br>
   <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname">
+  <input type="text" id="lname" name="lname"><br>
   <input id="emailAddress" type="email" multiple>
+  <label for="emailAddress">Email address:</label><br>
   </form>
-  
+
  <h3>May we publish your contribution?</h3>
 
 <form>

@@ -12,6 +12,44 @@
 	</author>
 	
 	<entry>
+		<title>Your story</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/My%20Story/"/>
+		<updated>2022-03-19T03:43:00Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/My%20Story/</id>
+		<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;body&gt;
+&lt;h4&gt;I would like to share:&lt;/h4&gt;
+&lt;form&gt;
+  &lt;input type=&quot;radio&quot; id=&quot;html&quot; name=&quot;fav_language&quot; value=&quot;A memory&quot; /&gt;
+  &lt;label for=&quot;html&quot;&gt;A memory&lt;/label&gt;&lt;br /&gt;
+  &lt;input type=&quot;radio&quot; id=&quot;css&quot; name=&quot;fav_language&quot; value=&quot;A story&quot; /&gt;
+  &lt;label for=&quot;css&quot;&gt;A story&lt;/label&gt;&lt;br /&gt;
+  &lt;input type=&quot;radio&quot; id=&quot;javascript&quot; name=&quot;fav_language&quot; value=&quot;Some thoughts&quot; /&gt;
+  &lt;label for=&quot;javascript&quot;&gt;Some thoughts&lt;/label&gt;
+&lt;/form&gt;
+ &lt;textarea name=&quot;message&quot; rows=&quot;10&quot; cols=&quot;60&quot;&gt;
+&lt;/textarea&gt; 
+&lt;form&gt;
+&lt;label for=&quot;fname&quot;&gt;First name:&lt;/label&gt;&lt;br /&gt;
+  &lt;input type=&quot;text&quot; id=&quot;fname&quot; name=&quot;fname&quot; /&gt;&lt;br /&gt;
+  &lt;label for=&quot;lname&quot;&gt;Last name:&lt;/label&gt;&lt;br /&gt;
+  &lt;input type=&quot;text&quot; id=&quot;lname&quot; name=&quot;lname&quot; /&gt;&lt;br /&gt;
+  &lt;input id=&quot;emailAddress&quot; type=&quot;email&quot; multiple=&quot;&quot; /&gt;
+  &lt;label for=&quot;emailAddress&quot;&gt;Email address:&lt;/label&gt;&lt;br /&gt;
+  &lt;/form&gt;
+ &lt;h3&gt;May we publish your contribution?&lt;/h3&gt;
+&lt;form&gt;
+  &lt;input type=&quot;radio&quot; id=&quot;yes&quot; name=&quot;options&quot; value=&quot;Yes&quot; /&gt;
+  &lt;label for=&quot;yes&quot;&gt;Yes&lt;/label&gt;&lt;br /&gt;
+  &lt;input type=&quot;radio&quot; id=&quot;no&quot; name=&quot;options&quot; value=&quot;No&quot; /&gt;
+  &lt;label for=&quot;no&quot;&gt;No&lt;/label&gt;&lt;br /&gt;
+&lt;/form&gt; 
+&lt;/body&gt;
+&lt;/html&gt;</content>
+	</entry>
+	
+	<entry>
 		<title>About</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/"/>
 		<updated>2022-03-19T03:43:00Z</updated>
@@ -27,14 +65,6 @@
 &lt;figcaption align=&quot;left&quot;&gt;The Friendship Belt, or The Covenant Chain belt, represents one of the earliest treaties between the Crown and First Nations peoples and established the foundation for First Nations - Crown relationships for generations thereafter. The belt shows that the Crown is linked by a chain to the First Nations peoples of this land. The three links of the chain represent a covenant of friendship, good minds, and the peace which shall always remain between us. The covenant chain is made of silver symbolizing that the relationship will be polished from time to time to keep it from tarnishing. This was the basis of the Nation to Nation relationship between the British Crown and the First Nations who became their allies in the formation of early Canada. [Image attribution] (https://vitacollections.ca/sixnationsarchive/details.asp?ID=2687120).&lt;figcaption&gt;
 &lt;h2 id=&quot;statement-of-purpose&quot; tabindex=&quot;-1&quot;&gt;Statement of Purpose&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#statement-of-purpose&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
 &lt;/figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content>
-	</entry>
-	
-	<entry>
-		<title>Contribute</title>
-		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/"/>
-		<updated>2022-03-19T03:43:00Z</updated>
-		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</id>
-		<content type="html"></content>
 	</entry>
 	
 	<entry>
@@ -54,9 +84,9 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 &lt;h4&gt;Deliverables&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;Scanned pages of text books and course materials&lt;/li&gt;
-&lt;li&gt;Document and rhetorical analysis of material&lt;/li&gt;
+&lt;li&gt;Analysis of material&lt;/li&gt;
 &lt;li&gt;Website archive of material and analysis&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;My Story visitor contribution tool&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4&gt;Performance Measures&lt;/h4&gt;
 &lt;h4&gt;Audience and Stakeholders&lt;/h4&gt;
@@ -178,7 +208,19 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/"/>
 		<updated>2022-04-03T18:20:05Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Document%20study%20sample/</id>
-		<content type="html">&lt;table&gt;
+		<content type="html">&lt;html&gt;
+&lt;head&gt;
+&lt;style&gt;
+th {
+  text-align: left;
+}
+tr {
+  border-bottom: 1px solid #ddd;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;table&gt;
 &lt;tr&gt;
 &lt;th&gt;Title:&lt;/th&gt;
 &lt;td&gt;The Canadian Stories Reader&lt;/td&gt;
@@ -214,6 +256,6 @@ The first initiative of the CCHP will be to examine the curriculum history of In
 &lt;p&gt;Several types of quantitative and qualitative analysis will be employed for this project including content analysis, such as coding, discourse analysis, and interpretive analysis. The standard historical document analysis framework of identifying the purpose, message, and audience....&lt;/p&gt;
 &lt;p&gt;Donec ullamcorper, felis quis condimentum molestie, turpis nisl pulvinar turpis, ut posuere arcu mi vel ante. Maecenas non fringilla velit. Nunc nisl nibh, volutpat vel ante ac, ullamcorper blandit mauris. Vivamus mattis mi nec sapien consectetur maximus. In ante ex, eleifend et pellentesque sit amet, ultricies et nisl. Duis hendrerit finibus posuere. In blandit metus nec lorem pretium, quis feugiat ex facilisis.&lt;/p&gt;
 &lt;p&gt;Suspendisse volutpat euismod justo sit amet efficitur. Aenean sodales mi at arcu tristique lacinia. Vestibulum bibendum tincidunt odio ut iaculis. Sed arcu magna, dictum in ipsum sed, sagittis condimentum lacus. Ut fringilla mattis diam, varius ultricies libero consequat vitae. Morbi quis rutrum urna, sit amet pulvinar elit. Nulla lacinia mollis nibh nec vestibulum. Donec sit amet fermentum sem. Fusce euismod turpis sem, at lacinia felis consectetur id.&lt;/p&gt;
-&lt;iframe src=&quot;https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PvcYDRdwoR-NM7lUlYzJAWV1kcKP1GZ-1F1qHdYScL4&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&quot; width=&quot;100%&quot; height=&quot;650&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</content>
+&lt;iframe src=&quot;https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PvcYDRdwoR-NM7lUlYzJAWV1kcKP1GZ-1F1qHdYScL4&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&quot; width=&quot;100%&quot; height=&quot;650&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;&lt;/html&gt;</content>
 	</entry>
 </feed>
