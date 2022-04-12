@@ -7,7 +7,7 @@
     <title>Your story | Canadian Curriculum History Project</title>
     <meta
       name="description"
-      content="It&amp;#39;s important for this project that it offer opportuniites for reflection."
+      content="It&amp;#39;s important for this project that it offer opportunites for reflection."
     />
     <link rel="icon" href="/hh-project-11ty-starter-kit/favicon.png" />
     <link href="/hh-project-11ty-starter-kit/css/style.css" rel="stylesheet" />
@@ -21,7 +21,7 @@
     />
     <meta
       name="twitter:description"
-      content="It&amp;#39;s important for this project that it offer opportuniites for reflection."
+      content="It&amp;#39;s important for this project that it offer opportunites for reflection."
     />
 
     <meta
@@ -30,7 +30,7 @@
     />
     <meta
       name="og:description"
-      content="It&amp;#39;s important for this project that it offer opportuniites for reflection."
+      content="It&amp;#39;s important for this project that it offer opportunites for reflection."
     />
     <meta property="og:image" content="https://hackinghistory.github.io/hh-project-11ty-starter-kit//previews/your-story.png" />
     <meta name="twitter:image" content="https://hackinghistory.github.io/hh-project-11ty-starter-kit//previews/your-story.png" />
@@ -89,7 +89,7 @@
   <div class="tdbc-container">
     <h1 class="tdbc-ink--primary tdbc-mb-none">Your story</h1>
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
-      It&#39;s important for this project that it offer opportuniites for reflection.
+      It&#39;s important for this project that it offer opportunites for reflection.
     </h2>
   </div>
 </header>
@@ -126,6 +126,26 @@
   <input type="radio" id="no" name="options" value="No">
   <label for="no">No</label><br>
 </form> 
+<p>button type=&quot;button&quot; class=&quot;collapsible&quot;&gt;Open Collapsible</button></p>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 </body>
 </html>
   </article>
