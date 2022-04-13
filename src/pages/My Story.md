@@ -5,6 +5,56 @@ description: "It's important for this project that it offer opportunites for ref
 
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+
+</style>
+</head>
 <body>
 
 <h4>I would like to share:</h4>
@@ -17,7 +67,7 @@ description: "It's important for this project that it offer opportunites for ref
   <label for="javascript">Some thoughts</label>
 </form>
 
- <textarea name="message" rows="10" cols="60">
+ <textarea name="message" rows="10" cols="50">
 </textarea> 
 
 <form>
@@ -38,9 +88,15 @@ description: "It's important for this project that it offer opportunites for ref
   <label for="no">No</label><br>
 </form> 
 
-button type="button" class="collapsible">Open Collapsible</button>
+<button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
-  <p>Lorem ipsum...</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<p>Collapsible Set:</p>
+<button type="button" class="collapsible">Open Section 1</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
 <script>
