@@ -37,3 +37,14 @@ However, Russian creatives have found a loophole to these laws through internati
 - [Human Rights Watch: Russia’s “Gay Propaganda” Law Imperils LGBT Youth](https://www.hrw.org/report/2018/12/12/no-support/russias-gay-propaganda-law-imperils-lgbt-youth#).
 
 ---
+
+
+https://www.instagram.com/p/B6scc4ejFzJ/
+
+https://www.instagram.com/p/CXOqKRFrQMF/
+
+https://www.instagram.com/p/B6vr2ZQjYJq/
+
+https://www.instagram.com/p/BYvEqoUAqBc/?hl=en
+
+https://www.instagram.com/p/B8tjuYzBUZL/
