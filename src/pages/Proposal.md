@@ -1,5 +1,5 @@
 ---
-title: "Proposal Test page Assignment"
+title: "Proposal Test Page Assignment"
 description: 'This page will disucss the proposed research projects topic description, audience, and structure (outline).'
 bodyClass: "gallery-page"
 instalinks: ["https://www.instagram.com/p/B6scc4ejFzJ/", "https://www.instagram.com/p/CLUBQZknOVc/","https://www.instagram.com/p/CXOqKRFrQMF/", "https://www.instagram.com/p/B6vr2ZQjYJq/","https://www.instagram.com/p/BYvEqoUAqBc/?hl=en","https://www.instagram.com/p/B8tjuYzBUZL/"]
@@ -28,7 +28,12 @@ Additionally, in 2013 Russia passed a "gay propaganda" law that acts as a politi
 
 
 However, Russian creatives have found a loophole to these laws through international social media giants such as Instagram as a way to network across borders, organizations with the capacity to attract thousands of people. Moreover, social media does not follow the same political lines or organizations; this allows the collaboration and networking between cultural leaders, artistic creatives, political activists, and the unassociated queer population to connect on the commonality of queer. 
+
+### Out of the Periphery: Queer Aesthetic and Community in Soviet Russia
+Queerness survived in soviet Russia on similar subversive aesthetic lines to the media loopholes contemporary queer communities use today. Russia's relationship to Queerness is a long and contentious history from the Lenin's leftist legalizations and the conservative crackdowns of conservative Stalinist governments; queer communities survived on the peripheries of society, building communities around the fashion coding and aesthetic. 
 {% endinstagallery %}
+
+
 
 #### Links 
 - [A Russian queer revolution is in the making and you can now follow it on Instagram](https://www.calvertjournal.com/articles/show/11647/russian-queer-creatives-instagram-follow-of-the-week).
