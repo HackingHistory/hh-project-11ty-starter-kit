@@ -1,14 +1,18 @@
 ---
-title: "Queer Soviet Russia"
+title: "Out of the Periphery: Queer Soviet Russia"
 description: "Out of the Periphery: Queer Aesthetic and Community in Soviet Russia"
 ---
-## Intro to Jumpstart
+### Out of the Periphery: Queer Aesthetic and Community in Soviet Russia
 
-This project starter kit, [forked from the original 11ty jumpstart repo](https://github.com/5t3ph/11ty-netlify-jumpstart), is intended to be _just enough_ to be a functional site using 11ty, and also to introduce essential 11ty features.
+Queerness survived in soviet Russia on similar subversive aesthetic lines to the media loopholes contemporary queer communities use today. Russia's relationship to Queerness is a long and contentious history from the Lenin's leftist legalizations and the conservative crackdowns of conservative Stalinist governments; queer communities survived on the peripheries of society, building communities around the fashion coding and aesthetic. In Soviet Russia, fashion became a central figure in finding safety and hierarchy in queer communities, policing and suppressing Queerness, and validating Queerness through its medicalization.
 
-[**Review the "Quick Start"**](/index.html#quickstart) on the home page for how to get this starter up and running for your project.
+As discussed by Dan Healy in "Homosexual Desire in Revolutionary Russia: the Regulation of Sexual and Gender Dissent," in Orthadox regulated Russia, "all sexuality was regarded with suspicion as a source of impurity." Sodomy was responded with formal penalties, and consensual male same-sex relations, not implicating anal penetration, were deemed no worse than masturbation. Michel Foucault blames the development of capitalism and utilitarianism as significant components of the West's regulation, medicalization, and suppression of homosexuality, writing, "it becomes an integral part of the bourgeois order" (Foucault, 6). Russia in the 19th century saw very little capitalist growth remaining an agricultural and largely landlord-based system, unlike the industrially growing West. The majority of Russia's population were peasants and serfs, with gentry Landlords holding almost all the power. Healy explores the power Landlords held and their patriarchal role amongst his tenants sexual relationships that, in some cases, this power dynamic developed into a patron-client sexual hierarchy writing "same-sex eros between males occurred in these enviroments and relfected their characteristics patterns of domination and subordination" (Healy, 22).
 
-Meanwhile, here are the original docs about this starter kit. Most of it you don't have to worry about, but you might want to look at VSCode Tips. 
+This patron-client relationship existed everywhere, from exploiting young men for alcohol, cab driver supplementing incomes, teacher apprentice relationships and mutual masturbation with servants. However, nowhere was the patron-client relationship more prevalent and survived the longest than in the bathhouse. The bathhouse, since the 1700s, has been a place of sexual indulgence and exploration, later becoming the center of a queer social community. As medicalization and suppression of sexuality grew, Russian psychiatrists as a space full of prostitution and cruising culture (Healy, 27). The bathhouse functioned under a hierarchical system from patrons to senior servants and junior servants at the bottom. Clothing or lack of clothing denoted one's position in this hierarchy; young junior attendants tended to wear traditional Russian shirts while senior assistants worked in the nude (Healy, 181). Additionally, whether dressed or not, attendants followed a specific aesthetic uniform; beardless youthful attendants staffed bathhouses. Healy states this aesthetic tradition dates back to the 1700s, developed from Russia's patron-client structure. This is evidenced by a seventeenth-century miniature portrait depicting four beardless male youth attendants serving male bathhouse traditions (Healy, 26).
+
+
+
+
 
 ### Jump to:
 
