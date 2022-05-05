@@ -50,12 +50,3 @@ This patron-client relationship existed everywhere, from exploiting young men fo
 ---
 
 
-https://www.instagram.com/p/B6scc4ejFzJ/
-
-https://www.instagram.com/p/CXOqKRFrQMF/
-
-https://www.instagram.com/p/B6vr2ZQjYJq/
-
-https://www.instagram.com/p/BYvEqoUAqBc/?hl=en
-
-https://www.instagram.com/p/B8tjuYzBUZL/

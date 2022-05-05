@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "A brief introduction to this starter kit."
+title: "Queer Soviet Russia"
+description: "Out of the Periphery: Queer Aesthetic and Community in Soviet Russia"
 ---
 ## Intro to Jumpstart
 

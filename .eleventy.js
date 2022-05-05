@@ -89,6 +89,7 @@ ${instaEmbeds.join('')}
 </section>
 <section class="text">
 ${markdownLibrary.render(content)}
+<script async defer src="https://www.instagram.com/embed.js"></script>
 </section>
 </article>`
   })
