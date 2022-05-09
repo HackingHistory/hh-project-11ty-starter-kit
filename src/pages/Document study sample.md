@@ -1,5 +1,5 @@
 ---
-title: "Document Study (Sample)"
+title: "Document Study"
 description: 
 date: 2022-01-03
 ---
