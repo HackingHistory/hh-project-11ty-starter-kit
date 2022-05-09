@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "Introduction and Inspiration"
+date: 2022-01-01
 ---
 ## Background 
 

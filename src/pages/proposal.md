@@ -1,6 +1,7 @@
 ---
 title: "Project Proposal"
 description: "An introductory planning document"
+date: 2022-01-02
 ---
 ## Topic
 

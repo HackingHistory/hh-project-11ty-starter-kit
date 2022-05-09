@@ -1,6 +1,7 @@
 ---
 title: "Your story"
 description: "It's important for this project that it offer opportunites for reflection."
+date: 2022-01-04
 ---
 
 <!DOCTYPE html>

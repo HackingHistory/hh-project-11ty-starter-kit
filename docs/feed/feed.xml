@@ -18,6 +18,51 @@
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/My%20Story/</id>
 		<content type="html">&lt;!DOCTYPE html&gt;
 &lt;html&gt;
+&lt;head&gt;
+&lt;style&gt;
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+&lt;p&gt;.active, .collapsible:hover {
+background-color: #555;
+}&lt;/p&gt;
+&lt;p&gt;.content {
+padding: 0 18px;
+display: none;
+overflow: hidden;
+background-color: #f1f1f1;
+}
+.collapsible {
+background-color: #777;
+color: white;
+cursor: pointer;
+padding: 18px;
+width: 100%;
+border: none;
+text-align: left;
+outline: none;
+font-size: 15px;
+}&lt;/p&gt;
+&lt;p&gt;.active, .collapsible:hover {
+background-color: #555;
+}&lt;/p&gt;
+&lt;p&gt;.content {
+padding: 0 18px;
+max-height: 0;
+overflow: hidden;
+transition: max-height 0.2s ease-out;
+background-color: #f1f1f1;
+}&lt;/p&gt;
+&lt;/style&gt;
+&lt;/head&gt;
 &lt;body&gt;
 &lt;h4&gt;I would like to share:&lt;/h4&gt;
 &lt;form&gt;
@@ -28,7 +73,7 @@
   &lt;input type=&quot;radio&quot; id=&quot;javascript&quot; name=&quot;fav_language&quot; value=&quot;Some thoughts&quot; /&gt;
   &lt;label for=&quot;javascript&quot;&gt;Some thoughts&lt;/label&gt;
 &lt;/form&gt;
- &lt;textarea name=&quot;message&quot; rows=&quot;10&quot; cols=&quot;60&quot;&gt;
+ &lt;textarea name=&quot;message&quot; rows=&quot;10&quot; cols=&quot;50&quot;&gt;
 &lt;/textarea&gt; 
 &lt;form&gt;
 &lt;label for=&quot;fname&quot;&gt;First name:&lt;/label&gt;&lt;br /&gt;
@@ -45,6 +90,31 @@
   &lt;input type=&quot;radio&quot; id=&quot;no&quot; name=&quot;options&quot; value=&quot;No&quot; /&gt;
   &lt;label for=&quot;no&quot;&gt;No&lt;/label&gt;&lt;br /&gt;
 &lt;/form&gt; 
+&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;collapsible&quot;&gt;Open Collapsible&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;content&quot;&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Collapsible Set:&lt;/p&gt;
+&lt;button type=&quot;button&quot; class=&quot;collapsible&quot;&gt;Open Section 1&lt;/button&gt;
+&lt;div class=&quot;content&quot;&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;script&gt;
+var coll = document.getElementsByClassName(&quot;collapsible&quot;);
+var i;
+
+for (i = 0; i &lt; coll.length; i++) {
+  coll[i].addEventListener(&quot;click&quot;, function() {
+    this.classList.toggle(&quot;active&quot;);
+    var content = this.nextElementSibling;
+    if (content.style.display === &quot;block&quot;) {
+      content.style.display = &quot;none&quot;;
+    } else {
+      content.style.display = &quot;block&quot;;
+    }
+  });
+}
+&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 	</entry>
