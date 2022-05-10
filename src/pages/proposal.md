@@ -36,24 +36,14 @@ As Canadians begin to address and reconcile the past policies of their governmen
 **Secondary** 
 
 **Tertiary**
-
-
 * Canadian public
-
 * Educators
-
 * Historians
-
 * Other scholars
-
 * Policy makers
-
 * Media
-
 * Graduate school application panel 
-
 * Grants, scholarships, other financial supporters
-
 * Publications: Peer-reviewed journals, popular media, DH publications and outlets, etc. 
 
 At this time I do not have the requirements to submit a successful Master's application, but I would like to begin work on this project through a Senior Thesis or Independant Study. This, of course, will require the sponsorship and support of a faculty member. I would like to work with Matt Price, my instructor for Hacking History (HIS496H1).
@@ -88,8 +78,36 @@ For this project to be successful, and to improve my chances of a submitting a s
 
 1. **Media:** As the project takes form, I envion an aggressive publicity component to build support and awareness not only for the project itself but for Digital Humanities. Various websites and publications should be contacted with a releases and a project brief. The project subject matter is timely and newsworthy so with proper planning and support, it should get some traction.
 
-
 ### 3. Planning 
+#### Project Scope
+<p>In the finsihed version of this website, the User will naviagate to relevant material by using HTML form with select elements:<br>
+
+<h4>Select from the options below to navigate to your curriculum:</h4>
+<form action="/action_page.php">
+  <label for="cars">In which district did you attend school?</label>
+  <select name="cars" id="cars">
+  <option value="Halton">Halton</option>  
+    <option value="Kawartha Pine Ridge">Kawartha Pine Ridge</option>
+    <option value="Simcoe County">Simcoe County</option>
+    <option value="York Region">York Region</option>
+    <option value="Toronto">Toronto</option>
+  </select>
+  <br><br>
+  <label for=dates">In what year(s) did you attend school here?</label>
+  <select name="dates" id="dates">
+  <option value="1950's">1950's</option>  
+    <option value="1960's">1960's</option>
+    <option value="1970's">1970's</option>
+    <option value="1980's">1980's</option>
+    <option value="1990's">1990's</option>
+  </select>
+  
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+
+
+
 ### 4. Execution
 ### 5. Closing
 ***

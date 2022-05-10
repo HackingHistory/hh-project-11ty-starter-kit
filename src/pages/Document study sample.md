@@ -55,7 +55,7 @@ This image from a secondary school Canadian Studies textbook depicts a wigwam...
 
 ![Wigwam schoolbook illustration](../img/wigwam.jpeg)
 
-### Analysis
+### Discussion
 Several types of quantitative and qualitative analysis will be employed for this project including content analysis, such as coding, discourse analysis, and interpretive analysis. The standard historical document analysis framework of identifying the purpose, message, and audience....
 
 
