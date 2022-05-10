@@ -26,6 +26,10 @@ As my mother and I began the painful process of sorting through my recently-dece
 
 <p>As I began to reflect on news and findings, I wondered what the responsibility of citizens, of Canadian people, do we have. My thoughts turned to the idea of responsibility as a vital component. But how do we think about responsibility. How do we envision responsibility through the education system when information, narratives, histories, are denied to us. This is how I arrived at the idea for this project.</p>
 
+<figure>
+![Kawartha Park Family Photo Album, 1943.](../img/albumcover.jpeg)
+
+
 ## What has been completed so far? 
 <p>The following is a list of activities and project tasks that have been completed or are in process:</p><ul>
 <li>Conducted cursory literature review
