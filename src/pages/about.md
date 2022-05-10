@@ -27,7 +27,9 @@ As my mother and I began the painful process of sorting through my recently-dece
 <p>As I began to reflect on news and findings, I wondered what the responsibility of citizens, of Canadian people, do we have. My thoughts turned to the idea of responsibility as a vital component. But how do we think about responsibility. How do we envision responsibility through the education system when information, narratives, histories, are denied to us. This is how I arrived at the idea for this project.</p>
 
 <figure>
-![Kawartha Park Family Photo Album, 1943.](../img/albumcover.jpeg)
+
+![Kawartha Park photo album, circa 1943.](../img/albumcover.jpeg)
+<figcaption align = "left">I discovered this family photo album while I was helping my mother sort out my grandmother's posessions.</figcaption></figure>
 
 
 ## What has been completed so far? 
