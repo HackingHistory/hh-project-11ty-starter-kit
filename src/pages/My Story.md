@@ -65,7 +65,7 @@ date: 2022-01-04
   <input type="radio" id="css" name="fav_language" value="A story">
   <label for="css">A story</label><br>
   <input type="radio" id="javascript" name="fav_language" value="Some thoughts">
-  <label for="javascript">Some thoughts</label>
+  <label for="javascript">Some thoughts</label><br><br>
 </form>
 
  <textarea name="message" rows="10" cols="50">
@@ -76,12 +76,10 @@ date: 2022-01-04
   <input type="text" id="fname" name="fname"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname"><br>
-  <input id="emailAddress" type="email" multiple>
-  <label for="emailAddress">Email address:</label><br>
+  <input id="emailAddress" type="email" multiple><bt>
+  <label for="emailAddress">Email address:</label><br><br>
   </form>
-
- <h3>May we publish your contribution?</h3>
-
+ <h4>May we publish your contribution?</h4><br>
 <form>
   <input type="radio" id="yes" name="options" value="Yes">
   <label for="yes">Yes</label><br>
@@ -89,16 +87,6 @@ date: 2022-01-04
   <label for="no">No</label><br>
 </form> 
 
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-<p>Collapsible Set:</p>
-<button type="button" class="collapsible">Open Section 1</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
