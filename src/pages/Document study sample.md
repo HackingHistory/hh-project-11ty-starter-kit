@@ -1,6 +1,6 @@
 ---
 title: "Document Study"
-description: 
+description: Sample Document Study page format
 date: 2022-01-03
 ---
 
@@ -39,7 +39,11 @@ tr {
 <td>9-12</td>
 </tr>
 <tr>
-<th>Region:</th>
+<th>District:</th>
+<td>York Region</td>
+</tr>
+<tr>
+<th>Province/Territory:</th>
 <td>Ontario</td>
 </tr>
 <tr>
