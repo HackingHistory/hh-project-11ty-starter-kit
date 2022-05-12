@@ -34,6 +34,8 @@ Like sex, fashion functions as a form of resistance, fluid in nature and untrace
 
 ### "queer zones and other worlds estranged from heterosexual culture, but also more tacit scenes of sexuality like official national culture, which depends on a notion of privacy to cloak its sexualization of national membership" (547).
 
+![](https://ichef.bbci.co.uk/news/976/cpsprodpb/1652C/production/_98463419_1161e954-e74a-425f-a038-4388c54ce52b.jpg)
+
 
 > Credit for the kitchen sink elements to the ["Just the Docs"](https://github.com/pmarsceill/just-the-docs) project by [pmarsceill](https://github.com/pmarsceill), and to the original author of the starterkit.
 

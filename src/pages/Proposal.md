@@ -18,6 +18,7 @@ However, Russian creatives have found a loophole to these laws through internati
 
 {% endinstagallery %}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NetBsW8hIok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Links 
 - [A Russian queer revolution is in the making and you can now follow it on Instagram](https://www.calvertjournal.com/articles/show/11647/russian-queer-creatives-instagram-follow-of-the-week).
