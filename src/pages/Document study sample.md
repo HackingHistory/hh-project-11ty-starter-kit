@@ -22,7 +22,7 @@ tr {
 </style>
 </head>
 <body>
-<p>This is a sample page for the primary source material analysis. The document study will include publishing and other key identification details, images or image gallery, and a textual analysis of the material. Visitors will reach these pages by using an HTML form with select elements, as seen below:</p>
+<p>This is a sample page for the primary source material analysis. Several types of quantitative and qualitative analysis will be employed for this project including content analysis, such as coding, discourse analysis, and interpretive analysis. The standard historical document analysis framework of identifying the purpose, message, and audience. The document study will include publishing and other key identification details, images or image gallery, and a textual analysis of the material. Visitors will reach these pages by using an HTML form with select elements, as seen below:</p>
 <form action="/action_page.php">
   <label for="cars">In which district did you attend school?</label>
   <select name="cars" id="cars">
@@ -92,4 +92,4 @@ This image from a secondary school Canadian Studies textbook depicts a wigwam...
 ![Wigwam schoolbook illustration](../img/wigwam.jpeg)
 
 ### Discussion
-Several types of quantitative and qualitative analysis will be employed for this project including content analysis, such as coding, discourse analysis, and interpretive analysis. The standard historical document analysis framework of identifying the purpose, message, and audience....
+The diction and description of the Mi is exclusively in the past tense, which aligns with an extinctionist or anthropological perspective. 
