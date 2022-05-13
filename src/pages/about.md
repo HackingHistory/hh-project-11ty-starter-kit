@@ -35,7 +35,7 @@ As my mother and I began the painful process of sorting through my recently-dece
 ## Project Status
 
 <h4>Literature review and primary source research</h4>
-<p>A cursory literature review has been conducted covering topics including curriculum history, ethics, reconciliation, political injustice, democratic theory and governance. Primary source materials have been located through the help of the librarian staff at the Ontario Institute for Education's Ontario Historical Education Collection and include the Ontario Historical Textbook Collection and the Ontario Government Education Documents and Curricula. 
+<p>A cursory literature review has been conducted covering topics including curriculum history, ethics, reconciliation, political injustice, cultural anthropology, rhetorica, and democratic theory and governance. Primary source materials have been located through the help of the librarian staff at the Ontario Institute for Education's Ontario Historical Education Collection and include the Ontario Historical Textbook Collection and the Ontario Government Education Documents and Curricula. 
 
 <h4>Technology</h4>
 <p>This project utilizes version control software GitHub, coding software Visual Studio Code, and content management platform Eleventy. Depending on future database requirements, content may have to be migrated to a new platform. The current setup is sufficient to present a preview of the project.</p>
