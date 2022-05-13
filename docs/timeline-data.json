@@ -1,0 +1,21 @@
+{
+  "posts": [
+    
+  ],
+  "events": [
+    
+    
+      {
+        "title": "About",
+        "url": "/about/",
+      "start_date": {"year": 2022},
+        "text": {"headline": "About", "text": "text"}
+    },
+    
+    
+    
+    
+    
+    
+  ]
+}
