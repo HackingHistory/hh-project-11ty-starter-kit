@@ -1,12 +1,18 @@
 ---
 title: "Document Study"
-description: Sample Document Study page format
+description: Analysis of primary source documents
 date: 2022-01-03
 ---
-
 <html>
 <head>
 <style>
+border {
+  border-top-style: ;
+  border-right-style: ;
+  border-bottom-style:;
+  border-left-style: solid; color: blue
+}
+
 th {
   text-align: left;
 }
@@ -16,7 +22,34 @@ tr {
 </style>
 </head>
 <body>
+<p>This is a sample page for the primary source material analysis. The document study will include publishing and other key identification details, images or image gallery, and a textual analysis of the material. Visitors will reach these pages by using an HTML form with select elements, as seen below:</p><br>
+<h4>Select from the options below to navigate to your curriculum:</h4>
+<form action="/action_page.php">
+  <label for="cars">In which district did you attend school?</label>
+  <select name="cars" id="cars">
+  <option value="Halton">Halton</option>  
+    <option value="Kawartha Pine Ridge">Kawartha Pine Ridge</option>
+    <option value="Simcoe County">Simcoe County</option>
+    <option value="York Region">York Region</option>
+    <option value="Toronto">Toronto</option>
+  </select>
+  <br><br>
+  <label for=dates">In what year(s) did you attend school here?</label>
+  <select name="dates" id="dates">
+  <option value="1950's">1950's</option>  
+    <option value="1960's">1960's</option>
+    <option value="1970's">1970's</option>
+    <option value="1980's">1980's</option>
+    <option value="1990's">1990's</option>
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+<br>
+<p>Alternatively, visitors may select from a virtual timeline to be taken to relevant material.</p><br>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PvcYDRdwoR-NM7lUlYzJAWV1kcKP1GZ-1F1qHdYScL4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+---
 <table>
 <tr>
 <th>Title:</th>
@@ -61,6 +94,3 @@ This image from a secondary school Canadian Studies textbook depicts a wigwam...
 
 ### Discussion
 Several types of quantitative and qualitative analysis will be employed for this project including content analysis, such as coding, discourse analysis, and interpretive analysis. The standard historical document analysis framework of identifying the purpose, message, and audience....
-
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PvcYDRdwoR-NM7lUlYzJAWV1kcKP1GZ-1F1qHdYScL4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
