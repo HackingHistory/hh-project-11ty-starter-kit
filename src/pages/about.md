@@ -41,3 +41,5 @@ As my mother and I began the painful process of sorting through my recently-dece
 <p>This project utilizes version control software GitHub, coding software Visual Studio Code, and content management platform Eleventy. Depending on future database requirements, content may have to be migrated to a new platform. The current setup is sufficient to present a preview of the project.</p>
 <h4>Faculty Support</h4>
 <p>Developing relationships with faculty members and subject matter experts is crtical to the projects short- and long-term goals. I have connected with Professor Heidi Bohaker of the University of Toronto and Pia Russell of Victoria University, both scholars of Canadian history and Indigenous studies.</p>
+<h4>Events</h4>
+<p>Although this project is in its infancy, I have submitted descriptive abstracts to the Centre for Ethics Undergraduate Conference and the Critical Digital Humanities International Conference for consideration.</p>
