@@ -86,10 +86,11 @@ tr {
 
 ---
 ### Preface
-This image from a secondary school Canadian Studies textbook depicts a wigwam...
+This image from a secondary school Canadian Studies textbook depicts a Mi'kmaq wigwam and visitors during the Royal Tour.<br>
 
 
 ![Wigwam schoolbook illustration](../img/wigwam.jpeg)
-
+<br>
 ### Discussion
-The diction and description of the Mi'kmaq uses the past tense, which aligns with an extinctionist or anthropological perspective. Both the references to the Mi'kmaq wigwam and Mi'Maq people present them as artifacts. This has the effect of placing the person, the Indigenous people, in the past. They are not living beings, but museum articfacts to be studied. They no longer exist. They do not require attention.
+The diction and description of the Mi'kmaq uses the past tense, which aligns with an extinctionist or anthropological perspective. Both the references to the Mi'kmaq wigwam and Mi'kmaq people present them as artifacts. This has the effect of placing the person, the Indigenous people, in the past. They are not living beings, but museum articfacts to be studied. They no longer exist. They do not require attention.<p>The illustration depicts a Royal Tour visitor 'posing' in front of the wigmam as you would at a common tourist attraction or museum exhibit. It removes all trace of living culture from the narrative.</p>
+<p>Both the illustration and the narrative place the Indigenous people in the past, relegating them to mere historical exhibits and tourist amusements. 
