@@ -29,7 +29,7 @@ As my mother and I began the painful process of sorting through my recently-dece
 <figure>
 
 ![Kawartha Park photo album, circa 1943.](../img/albumcover.jpg)
-<figcaption align = "left">I discovered this family photo album while I was helping my mother sort out my grandmother's posessions.</figcaption></figure>
+<figcaption align = "left">Kawartha Park photo album, circa 1943. I discovered this family photo album while I was helping my mother sort out my grandmother's posessions.</figcaption></figure>
 
 
 ## Project Status
