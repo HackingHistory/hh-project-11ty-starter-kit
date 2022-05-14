@@ -20,7 +20,9 @@ As pop and EDM culture and the age of television and the internet popularized, t
 
 {% endinstagallery %}
 
-"All the Things She Said" became a queer anthem accompanied by nearly pornographic performances while singing live and queer baiting in the music video. 
+"All the Things She Said" became a queer anthem accompanied by nearly pornographic performances while singing live and queer baiting in the music video. However, despite Katin and Volkova being heterosexual and anti-LGBTQ, they have become complicated international queer cult legends in both Russia and America, spurring conversations on rights and freedom in both countries in a time where queer visibility in mainstream media was a rare sight and only a few years following Ellen coming out. Vice journalist Daisy Jones sums up the complicated status of "All the Things She Said" as a facilitator of queer mobile zones and world-making writing, 
+
+#### "I'm imbuing "All the Things She Said" with an excessive sentimentality here. Honestly, listen back to it now – it fucking slaps – and it also offered us actual queer girls the opportunity to reframe a marketing ploy into something powerful in the process – in spite of Volkova's blatant, wince-worthy homophobia. And while this band are so far from being queer icons (please!), the post-Trump need for girls making out in the rain to the sound of some freaky rock-trance hybrid has never been greater. I, for one, am here for it." 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NetBsW8hIok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
