@@ -4,7 +4,7 @@ description: "Out of the Periphery: Queer Aesthetic and Community in Soviet Russ
 ---
 #### Queerness in Russia during the late 19th and early 20th centuries saw intense changes in laws, freedom of movement and expression. Additionally, these rapid changes led to significant shifts in cultural attitudes and social and medical reforms surrounding gender expression, transgender and gender studies, and acknowledgement under both laws and society. From Romanov, Lenin, Stalin, and the fall of the USSR, Queerness survived in Russia on similar subversive aesthetic lines to the media loopholes we see contemporary queer communities use today on sites such as Instagram and Twitter. Russia's relationship to Queerness is a long and contentious history from the Lenin's leftist legalizations and the conservative crackdowns of conservative Stalinist governments; queer communities survived on the peripheries of society, building communities around the fashion coding and aesthetic. 
  
-### Querness in Russia from the Fall of the Romanovs to the Rise of Lenin
+### Queerness in Russia from the Fall of the Romanovs to the Rise of Lenin
 
 As discussed by Dan Healy in "Homosexual Desire in Revolutionary Russia: the Regulation of Sexual and Gender Dissent," Healy argues that homosexuality in Russia pre-revolutionary Russia offered more unofficial freedoms than its counterparts in Europe despite its illegal status. Furthermore, he argues that the criminalization of homosexuality is an "imported" law from other parts of Europe by Peter the Great. Under Peter, the Great sodomy (homosexuality) would be outlawed only amongst military men. Still, homosexuality would remain as a de facto legal status due to no law referencing the general public. It was only in 1835 that homosexuality in the general public (men only) became illegal. 
 
@@ -42,7 +42,7 @@ Lenin's rise to power saw a small window in time for Queerness to be legalized a
 
 ### Jump to:
 
-- [Global Site Data and .env](#global-site-data-and-env)
+- [](http://localhost:8080/hh-project-11ty-starter-kit/styledemo/)
 - [Template Languages Used](#template-languages-used)
 - [Layout Hierarchy and Features](#layout-hierarchy-and-features)
 - [Expected Frontmatter](#expected-frontmatter)
