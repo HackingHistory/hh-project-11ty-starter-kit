@@ -28,11 +28,6 @@ As pop and EDM culture and the age of television and the internet popularized, t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkNq5jZV1_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Links 
-- [A Russian queer revolution is in the making and you can now follow it on Instagram](https://www.calvertjournal.com/articles/show/11647/russian-queer-creatives-instagram-follow-of-the-week).
-- [How 2 Erotic-Themed Menswear Labels Are Changing Stereotypes in Eastern Europe](https://www.vogue.com/article/ukraine-menswear-anton-belinskiy-ivan-frolov).
-- [Party at Kyiv's Momentous Queer Rave and Acceptance Comes First](https://www.calvertjournal.com/features/show/11215/veselka-queer-rave-kyiv-ukraine-nightlife-lgbtq).
-- [Human Rights Watch: Russia’s “Gay Propaganda” Law Imperils LGBT Youth](https://www.hrw.org/report/2018/12/12/no-support/russias-gay-propaganda-law-imperils-lgbt-youth#).
 
 ---
 
