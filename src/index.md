@@ -28,10 +28,18 @@ Finally, this site will look at how popular media through youtube and music comp
 
 #### Links 
 - [A Russian queer revolution is in the making and you can now follow it on Instagram](https://www.calvertjournal.com/articles/show/11647/russian-queer-creatives-instagram-follow-of-the-week).
+    - This article  reports on the Queer Russian Instagram account [@Queer.Russian. Revolution](https://www.instagram.com/russian.queer.revolution/) and their contributions to towards Russian LGBTQ rights. 
 - [How 2 Erotic-Themed Menswear Labels Are Changing Stereotypes in Eastern Europe](https://www.vogue.com/article/ukraine-menswear-anton-belinskiy-ivan-frolov).
+    - This article explores how fashion can function as activism and subvert anti-homosexual systems of power both powerfully and subtly through Kyiv-based designer Anton Belinskiy.
 - [Party at Kyiv's Momentous Queer Rave and Acceptance Comes First](https://www.calvertjournal.com/features/show/11215/veselka-queer-rave-kyiv-ukraine-nightlife-lgbtq).
+    - This article explores Ukraine's queer rave subculture as a mobile queer counterpublic (space) separate from heterosexual powers and discrimination for Ukrainian Queers
 - [Human Rights Watch: Russia’s “Gay Propaganda” Law Imperils LGBT Youth](https://www.hrw.org/report/2018/12/12/no-support/russias-gay-propaganda-law-imperils-lgbt-youth#).
+    - This article covers some of the major issues in Russia's newanti-LGBTQ information law and specifically its effects on youth education and safety.
 - [Secret Histories: LGBTQ Life in pre-revolutionary Russia](https://www.calvertjournal.com/features/show/9567/being-lgbtq-secret-histories-lgbtq-life-in-pre-revolutionary-russia)
+    - This article covers pre-revolutionary queer culture and spaces including bathhouse's, cruising and drag parties
 - [1917 Russian Revolution: The gay community's brief window of freedom](https://www.bbc.com/news/world-europe-41737330)
+    - This article covers Queer culture during its brief legalization under Lenin and its re-criminalization in the 1930s 
 - [No Support: Russia’s “Gay Propaganda” Law Imperils LGBT Youth](https://www.hrw.org/report/2018/12/12/no-support/russias-gay-propaganda-law-imperils-lgbt-youth#)
+     - This article covers some of the major issues in Russia's newanti-LGBTQ information law and specifically its effects on youth education and safety.
 - [In Putin’s Russia, an inconvenient hero at G-20](https://www.washingtonpost.com/world/in-putins-russia-an-inconvenient-hero-at-g-20/2013/09/03/5ea74366-14a2-11e3-b220-2c950c7f3263_story.html)
+    - This American news article covers contemporary Russian LGBTQ rights and its complex relationship to queer historical military hero Grand Duke Constantine Constantinovich of Russia. 
