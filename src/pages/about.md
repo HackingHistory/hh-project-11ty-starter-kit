@@ -26,7 +26,7 @@ As my mother and I began the painful process of sorting through my recently-dece
 <p>With Canada now joining the exclusive club of countries who have committed genocide, I wondered what is my responsibility as the ancestor of settlers and pioneers.</p><p>As I think of my grandparents and others, who didn’t know or didn’t ask or didn’t care to know, I think the greatest crime I can commit is following them by not asking or doing.</p>
 
 <p>As I began to reflect on news and findings, I wondered what the responsibility of citizens, of Canadian people, do we have. My thoughts turned to the idea of responsibility as a vital component. But how do we think about responsibility. How do we envision responsibility through the education system when information, narratives, histories, are denied to us. This is how I arrived at the idea for this project.</p>
-
+<br><br>
 <figure>
 
 ![Kawartha Park photo album, circa 1943.](../img/albumcover.jpg)
