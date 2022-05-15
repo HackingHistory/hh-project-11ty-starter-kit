@@ -5,18 +5,17 @@ date: 2022-01-01
 ---
 ## Background 
 
-This project was conceived in 2021 and my participation in Hacking History (HIS496H1) gave me the opportunity to treat this idea as a serious study in Digital Humanities. Hacking History equipped with the foundational knowledge in technology, data, to begin to think, plan, and develop projects for Digital Humanities. The project is in an exploratory development phase. 
+This project was conceived in 2021 and my participation in Hacking History (HIS496H1) gave me the opportunity to treat this idea as a serious study in Digital Humanities. Hacking History has equipped me with the foundational knowledge in technology and data to begin to think, plan, and develop projects for Digital Humanities. The project is in an exploratory development phase. 
 
 ## Inspiration
 
-For many Canadians, the concept of reconciliation is a matter of government policy. Fortunately, the movement towards reconciliation recieves ample news coverage and we can now see businesses and institutiions introduce ways to include indigenous lives into their work and operational cultures. These are important and necessary moves, but I wonder what the 'average' Canadian can do, on a human level, to connect with thier own past and make connections with indigenous commmunities. <br><br>
-
+For many Canadians, the concept of reconciliation is a matter of government policy. Fortunately, the movement towards reconciliation recieves ample news coverage and we can now see businesses, institutiions, and communities introduce ways to include Indigenous lives and voices into their work, missions, and cultures. These are important and necessary moves, but I wonder what the 'average' Canadian can do, on a human level, to connect with their own past and make connections with Indigenous commmunities. <br><br>
 
 <figure>
 
 ![The Friendship Belt Tehontatenentsonterontahkhwa](../img/belt.jpg)
 
-<figcaption align = "left">The Friendship Belt, or The Covenant Chain belt, represents one of the earliest treaties between the Crown and First Nations peoples and established the foundation for First Nations - Crown relationships for generations thereafter. The belt shows that the Crown is linked by a chain to the First Nations peoples of this land. The three links of the chain represent a covenant of friendship, good minds, and the peace which shall always remain between us. The covenant chain is made of silver symbolizing that the relationship will be polished from time to time to keep it from tarnishing. This was the basis of the Nation to Nation relationship between the British Crown and the First Nations who became their allies in the formation of early Canada. [Image attribution] (https://vitacollections.ca/sixnationsarchive/details.asp?ID=2687120).</figcaption></figure>
+<figcaption align = "left">The Friendship Belt, or The Covenant Chain belt, represents one of the earliest treaties between the Crown and First Nations peoples and established the foundation for First Nations - Crown relationships for generations thereafter. The belt shows that the Crown is linked by a chain to the First Nations peoples of this land. The three links of the chain represent a covenant of friendship, good minds, and the peace which shall always remain between us. The Covenant Chain is made of silver symbolizing that the relationship will be polished from time to time to keep it from tarnishing. This was the basis of the Nation to Nation relationship between the British Crown and the First Nations who became their allies in the formation of early Canada.<br><a href="https://vitacollections.ca/sixnationsarchive/details.asp?ID=2687120">Image attribution.</a></figcaption></figure>
 
 ## Statement of Purpose
 <p>
@@ -29,7 +28,7 @@ As my mother and I began the painful process of sorting through my recently-dece
 <figure>
 
 ![Kawartha Park photo album, circa 1943.](../img/albumcover.jpg)
-<figcaption align = "left">Kawartha Park photo album, circa 1943. I discovered this family photo album while I was helping my mother sort out my grandmother's posessions.</figcaption></figure>
+<figcaption align = "left">Kawartha Park photo album, circa 1943. I discovered this family photo album while I was helping my mother sort out my grandmother's posessions. The photographs inside depict my grandparents and their friends enjoying canoeing, swimming, and other summer activities at the cottage</figcaption></figure>
 
 
 ## Project Status
