@@ -28,11 +28,17 @@ Towards the end of the 19th-century, Bathhouses, despite beings popular sights f
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/11/Grand_Duke_Constantine_Constantinovich_of_Russia.jpg)
 - 5. Grand Duke Constantine Constantinovich of Russia
-### Pre-Stalin Soviet Queer Aesthetic and Community in Soviet Russia
+### Queer Aesthetic and Community from Lenin to Stalin's Soviet Russia
+Lenin's rise to power saw a small window in time for Queerness to be legalized and thrive, moving more and more out of the periphery and into the mainstream Moscow and St Petersburg (Petrograd/Leningrad). Finally, following the Bolshevik revolution in 1917, homosexuality was defacto legalized by abolishing all imperial laws and governance. While legal, homosexuals under Bolshevik governments were still under threat and discriminated against. Through fashion and coding, Gay men in Russia developed a distinct underground community and language. Looks included red ties or shawls sewn into back pockets and powered faces with heavy mascara. However, this coding was not universal amongst homosexual counter-public and subcultures. Like the bathhouses during the late 18th century, class hierarchy separated homosexual communities into two distinct categories, the rich, the last echos of the fashionable aristocratic nobility class before the revolution, and the poor, the unfashionable working class including soldiers and "ordinary" people. Magnus Hirschfeld, a German scientist, indirectly and directly influenced the Bolsheviks. He founded the Institute of Sexology in Berlin, and his publication "The Third Sex" translated into Russian only a few years after its initial publication in German.  
+
+However, Healy argues to a certain extent, despite the later medicalization of homosexuality under the Bolshevik government, Lenin considered sex, whether hetero or homo, to be a private affair. Healy writes, 
+
+#### "Lenin seemed to be saying that those who suffered from a “personalabnormality . . . in sexual life” ought to do so in silence while working for the revolution. Indulging in transgressive sexual behavior was“really quite bourgeois,” while seeking the sympathy of middle-classmorality was capitulation to the enemy. For the young “queer subject”imagined by Ushakovskii in 1908, the Lenin of 1920, refracted throughthe even more conservative mood of 1924, proposed an existence ofsacriﬁce of the “personal” to the revolutionary movement (Healy, 113)."
+
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/1652C/production/_98463419_1161e954-e74a-425f-a038-4388c54ce52b.jpg)
 - 6. Image of Russian sailors with men in drag
 
-Lenin's rise to power saw a small window in time for Queerness to be legalized and thrive, moving more and more out of the periphery and into the mainstream Moscow and St Petersburg (Petrograd/Leningrad). 
+
 
 ![](https://cdn2.opendemocracy.net/media/images/Archives_Roldugina_2_UlJJB61.width-800.jpg)
  - 7. A drag party early 20th Century Moscow 
