@@ -28,8 +28,7 @@ As my mother and I began the painful process of sorting through my recently-dece
 <figure>
 
 ![Kawartha Park photo album, circa 1943.](../img/albumcover.jpg)
-<figcaption align = "left">Kawartha Park photo album, circa 1943. I discovered this family photo album while I was helping my mother sort out my grandmother's posessions. The photographs inside depict my grandparents and their friends enjoying canoeing, swimming, and other summer activities at the cottage</figcaption></figure>
-
+<figcaption align = "left">Kawartha Park photo album, circa 1943. I discovered this family photo album while I was helping my mother sort out my grandmother's posessions. The photographs inside depict my grandparents and their friends enjoying canoeing, swimming, and other summer activities at the cottage.</figcaption></figure>
 
 ## Project Status
 
