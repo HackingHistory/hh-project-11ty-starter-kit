@@ -39,4 +39,3 @@ Through fashion, an individual or group can communicate dissent and dissatisfact
 
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/1652C/production/_98463419_1161e954-e74a-425f-a038-4388c54ce52b.jpg)
 
-In a contemporary context, Queer-rave clothes, art, fashion and the Avante-Garde also represent the fluid and complex nature of a mobile queer counterpublic can exist in. Fashion can work as an aesthetic, art for art's sake. At the same time, simultaneously send coded or subversive messages of Queerness recognizable only to the private (queer) and completely separate from the hegemonic heteronormative powers of the state. To read more about contemporary subversive fashion in Russian in the digital age, see [Post-Soviet Queerness](http://localhost:8080/hh-project-11ty-starter-kit/Proposal/).
