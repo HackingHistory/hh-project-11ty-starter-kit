@@ -1,5 +1,5 @@
 ---
-title: "Your story"
+title: "My story"
 description: "It's important for this project that it offer opportunites for reflection."
 date: 2022-01-04
 ---
@@ -58,7 +58,7 @@ date: 2022-01-04
 </head>
 <body>
 
-My Story is an opportunity for visitors to relfect and respond to the material they have viewed. This engagement is a critical part of this project as it forms the basis for dialectical moment of ethical reflection. As the audience/visitor, the object of the primary source material, has the opportunity to confront, overcome, the sins of omission/distortion/erasure presented to them as teaching material, and reconcile with new information and realities (MMIWG, residential schools, genocide, mass graves of children, etc). and once again engage with the material in a critical. This process or exercise is to some degree a form of reconciliation, both with the policies of government and with Indigenous history.</p><p>Visitors will use a form like the one below to leave reflections or memories, which will be collected and analyzed.</p>
+My Story is an opportunity for visitors to relfect and respond to the material they have viewed. This engagement is a critical part of this project as it forms the basis for dialectical moment of ethical reflection. As the visitor (participant), the object of the primary source material, has the opportunity to confront, overcome, the sins of omission/distortion/erasure presented to them as teaching material, and reconcile with new information and realities (MMIWG, residential schools, genocide, mass graves of children, etc.) This process or exercise is to some degree a form of reconciliation, both with the policies of government and with Indigenous history.</p><p>Visitors will use a form like the one below to leave reflections or memories, which will be collected and analyzed.</p>
 
 <h4>I would like to share:</h4>
 <form>
