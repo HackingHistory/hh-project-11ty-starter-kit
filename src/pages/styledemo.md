@@ -34,6 +34,8 @@ Like sex, fashion functions as a form of resistance, fluid in nature and untrace
 
 ### "queer zones and other worlds estranged from heterosexual culture, but also more tacit scenes of sexuality like official national culture, which depends on a notion of privacy to cloak its sexualization of national membership" (547).
 
+Through fashion, an individual or group can communicate dissent and dissatisfaction simultaneously with notions and declaration of patriotism and national identity. The image below is an example of fashion that may represent the hierarchal, cultural, and systematic complexities of a queer counterpublic. As discussed in [Out of the Periphery: Queer Soviet Russia](http://localhost:8080/hh-project-11ty-starter-kit/about/), mobile queer communities during the early 1900s operated in a two-tier hierarchal system of the leftover aristocracy and the common folk, often soldiers and members of the Navy. Those who crossed dressed were afforded some mobility between these two groups. The image illustrates the complex hierarchal mobile queer zones intersecting with traditional Russian culture. For example, the cross-dressing individuals wear traditional female Russian clothing and hairstyles of that time, blending in with the Russian navy men. 
+
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/1652C/production/_98463419_1161e954-e74a-425f-a038-4388c54ce52b.jpg)
 
 
